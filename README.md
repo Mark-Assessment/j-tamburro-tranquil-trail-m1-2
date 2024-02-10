@@ -10,12 +10,12 @@ First Time User-
 
 Returning User-
 
--As a Returning User, I would like to be able to contact the group.
--As a Returning User, I would like to be able to sign up to the group.
--As a Returning User, I would like to be able to access the group across different social media platforms.
+- As a Returning User, I would like to be able to contact the group.
+- As a Returning User, I would like to be able to sign up to the group.
+- As a Returning User, I would like to be able to access the group across different social media platforms.
 
 
 Frequent User-
 
--As a Frequent User, I would like to be able to keep up to date with events the group are running through the social media platforms linked.
--As a Frequent User, I would like to be able to check if locations, dates and times are changed or updated.
+- As a Frequent User, I would like to be able to keep up to date with events the group are running through the social media platforms linked.
+- As a Frequent User, I would like to be able to check if locations, dates and times are changed or updated.
