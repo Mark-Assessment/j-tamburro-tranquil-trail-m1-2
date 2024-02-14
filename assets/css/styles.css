@@ -33,10 +33,10 @@ header::after {
 }
 
 .josefin-slab {
-    font-family: "Josefin Slab", serif;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
+    font-family: "Josefin Slab", serif !important;
+    font-optical-sizing: auto !important;
+    font-weight: 300 !important;
+    font-style: normal !important;
 }
 
 nav {
@@ -44,22 +44,22 @@ nav {
 }
 
 nav ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
 }
 
 nav li {
-    display: inline-block;
-    margin-left: 70px;
-    padding-top: 15px;
-    position: relative;
+    display: inline-block !important;
+    margin-left: 70px !important;
+    padding-top: 15px !important;
+    position: relative !important;
 }
 
 nav a {
-    color: #466043;
-    text-decoration: none;
-    text-transform: uppercase;
+    color: #466043 !important;
+    text-decoration: none !important;
+    text-transform: uppercase !important;
 
 }
 
@@ -153,6 +153,19 @@ footer {
     width: 100%;
     display: flex;
     background-color: yellow;
-
 }
 
+footer ul {
+    list-style: none;
+    padding: 15px;
+    justify-content: left;
+    align-items: left;
+}
+
+p {
+    margin: 30px;
+    padding: 5px;
+    font-family: "Josefin Slab", serif;
+    color: #466043;
+    font-size: 20px;
+}
