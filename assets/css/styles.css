@@ -1,7 +1,6 @@
 body {
     margin: 0;
-    font-family: 'Caveat', cursive;
-    width: 100%;
+    font-family: "Josefin Slab", serif;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -29,8 +28,15 @@ header::after {
 
 .logo {
     float: left;
-    width: 300px;
+    width: 380px;
     padding: 10px 0;
+}
+
+.josefin-slab {
+    font-family: "Josefin Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
 }
 
 nav {
@@ -46,7 +52,7 @@ nav ul {
 nav li {
     display: inline-block;
     margin-left: 70px;
-    padding-top: 23px;
+    padding-top: 15px;
     position: relative;
 }
 
@@ -83,9 +89,12 @@ nav a:hover {
 }
 
 h1 {
-    font-size: 40px;
-    color: burlywood;
+    font-size: 30px;
+    color: rgb(40, 128, 40);
+    text-transform: uppercase;
+    text-align: left;
 }
+
 
 .h2 {
     justify-content: center;
@@ -99,8 +108,7 @@ main {
     justify-content: center;
     background-color: #DBFAD7;
     flex: 1 0 auto;
-    font-family: 'Caveat', cursive;
-
+    font-family: "Josefin Slab", serif;
 }
 
 p {
@@ -115,36 +123,30 @@ p {
     padding-top: 10px;
     margin: auto;
     border-radius: 10px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    justify-content: center;
+    font-family: "Josefin Slab", serif;
+    color: green;
+    font-size: 20px;
+
 }
 
 .img-small1 {
-    width: 300px;
-    height: auto;
-    margin-right: 20px;
-
+    width: 400px;
+    height: 267px;
+    margin-right: 60px;
 }
 
 .img-small2 {
-    width: 300px;
+    width: 400px;
     height: auto;
-    margin-right: 20px;
+    margin-right: 60px;
 }
 
 .img-small3 {
-    width: 300px;
+    width: 400px;
     height: auto;
-
-}
-
-.img-small:not(:last-child) {
-    margin-right: 20px;
-}
-
-.image-container {
-    display: flex;
-    justify-content: space-between;
-
+    margin-right: 60px;
 }
 
 footer {
@@ -154,4 +156,3 @@ footer {
 
 }
 
-footer ul {}
