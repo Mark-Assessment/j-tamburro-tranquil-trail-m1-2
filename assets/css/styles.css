@@ -11,25 +11,25 @@ body {
 }
 
 header {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: black;
-    padding: 10px
+    width: 100% !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    color: #466043!important;
+    padding: 10px !important;
 }
 
 header::after {
-    content: '';
-    display: table;
-    clear: both;
+    content: '' !important;
+    display: table !important;
+    clear: both !important;
 }
 
 
 .logo {
-    float: left;
-    width: 380px;
-    padding: 10px 0;
+    float: left !important;
+    width: 380px !important;
+    padding: 10px 0 !important;
 }
 
 .josefin-slab {
@@ -40,7 +40,7 @@ header::after {
 }
 
 nav {
-    float: right;
+    float: right !important;
 }
 
 nav ul {
@@ -64,26 +64,26 @@ nav a {
 }
 
 nav a::before {
-    content: '';
-    display: block;
-    height: 5px;
-    width: 100%;
-    background-color: burlywood;
-    position: absolute;
-    top: 0;
-    width: 0%;
-    transition: all ease-in-out 250ms;
+    content: '' !important;
+    display: block !important;
+    height: 5px !important;
+    width: 100% !important;
+    background-color: burlywood !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 0% !important;
+    transition: all ease-in-out 250ms !important;
 }
 
 nav a:hover::before {
-    width: 100%;
+    width: 100% !important;
 }
 
 nav a:hover {
-    color: burlywood;
+    color: burlywood !important;
 }
 
-.container {
+.container image {
     width: 97%;
     margin: 0 auto;
 }
@@ -152,14 +152,7 @@ p {
 footer {
     width: 100%;
     display: flex;
-    background-color: yellow;
-}
-
-footer ul {
-    list-style: none;
-    padding: 15px;
-    justify-content: left;
-    align-items: left;
+    background-color: #DBFAD7;
 }
 
 p {
