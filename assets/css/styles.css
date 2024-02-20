@@ -41,7 +41,7 @@ header::after {
 }
 
 nav {
-    float: right;
+    float: right !important;
 }
 
 nav ul {
@@ -61,7 +61,6 @@ nav a {
     color: #466043 !important;
     text-decoration: none !important;
     text-transform: uppercase !important;
-
 }
 
 nav a::before {
@@ -89,6 +88,7 @@ nav a:hover {
     font-family: "Josefin Slab", serif !important;
     color: #466043;
 }
+
 .container {
     display: flex;
     justify-content: space-between;
@@ -120,13 +120,15 @@ nav a:hover {
     text-align: center;
     color:#466043;
     font-family: "Josefin Slab", serif !important;
+    font-size: 28px;
+    text-transform: uppercase;
 }
 
 h1 {
     font-size: 30px;
     color: rgb(40, 128, 40);
-    text-transform: uppercase;
     text-align: left;
+    text-transform: uppercase;
 }
 
 
@@ -153,4 +155,5 @@ footer {
 
 .social-icons {
     list-style: none;
+    display: inline-block;
 }
