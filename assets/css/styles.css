@@ -8,10 +8,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     font-size: 22px;
-    background-image: url('../assets/styles.css/images/backgroundimage.jpg');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+    
 }
 
 header {
@@ -21,6 +18,10 @@ header {
     align-items: center;
     color: #466043;
     padding: 10px;
+    background-image: url('assets/images/backgroundimage1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 header::after {
@@ -147,6 +148,7 @@ main {
     background-color: #DBFAD7;
     flex: 1 0 auto;
     font-family: "Josefin Slab", serif !important;
+    
 }
 
 footer {
