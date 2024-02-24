@@ -18,33 +18,29 @@ header {
     align-items: center;
     color: #466043;
     padding: 10px;
-    background-image: url('assets/images/backgroundimage1.jpg');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
 }
 
 header::after {
-    content: '' !important;
-    display: table !important;
-    clear: both !important;
+    content: '';
+    display: table;
+    clear: both;
 }
 
 .logo1 {
-    float: left !important;
-    width: 600px !important;
-    padding: 10px 0 !important;
+    float: left;
+    width: 300px;
+    padding: 10px 0;
 }
 
 .josefin-slab {
-    font-family: "Josefin Slab", serif !important;
-    font-optical-sizing: auto !important;
-    font-weight: 300 !important;
-    font-style: normal !important;
+    font-family: "Josefin Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
 }
 
 nav {
-    float: right !important;
+    float: right;
 }
 
 nav ul {
@@ -61,25 +57,25 @@ nav li {
 }
 
 nav a {
-    color: #466043 !important;
-    text-decoration: none !important;
-    text-transform: uppercase !important;
+    color: #466043;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
 nav a::before {
-    content: '' !important;
-    display: block !important;
-    height: 5px !important;
-    width: 100% !important;
-    background-color: burlywood !important;
-    position: absolute !important;
-    top: 0 !important;
-    width: 0% !important;
-    transition: all ease-in-out 250ms !important;
+    content: '';
+    display: block;
+    height: 5px;
+    width: 100%;
+    background-color: burlywood;
+    position: absolute;
+    top: 0;
+    width: 0%;
+    transition: all ease-in-out 250ms;
 }
 
 nav a:hover::before {
-    width: 100% !important;
+    width: 100%;
 }
 
 nav a:hover {
@@ -90,6 +86,10 @@ nav a:hover {
     text-align: center;
     font-family: "Josefin Slab", serif !important;
     color: #466043;
+    background-image: url('assets/images/backgroundimage-medium.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .container {
