@@ -169,3 +169,7 @@ footer {
     padding: 20px;
 }
 
+.backgroundimage {
+    position: relative;
+    z-index: 1;
+}
