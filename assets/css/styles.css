@@ -94,16 +94,20 @@ nav a:hover {
 
 .card-title {
     text-align: center;
+    color: #466043;
 }
 
 .card-text {
     text-align: center;
     font-size: 18px;
+    color: #466043;
 }
 
 .subheading {
     text-align: center;
+    color: #466043;
 }
+
 .text-section {
     text-align: center;
     font-family: "Josefin Slab", serif !important;
