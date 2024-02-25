@@ -1,6 +1,7 @@
 body {
     margin: 20px;
     padding: 50px;
+    background-image: url('assets/images/backgroundimage1.jpg');
     font-family: "Josefin Slab", serif !important;
     display: flex;
     flex-direction: column;
@@ -86,10 +87,6 @@ nav a:hover {
     text-align: center;
     font-family: "Josefin Slab", serif !important;
     color: #466043;
-    background-image: url('assets/images/backgroundimage-medium.jpg');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
 }
 
 .container {
@@ -145,7 +142,7 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: #DBFAD7;
+    background-color: rgba(216, 250, 215, 0);
     flex: 1 0 auto;
     font-family: "Josefin Slab", serif !important;
     
@@ -172,4 +169,5 @@ footer {
 .backgroundimage {
     position: relative;
     z-index: 1;
+    background-repeat: no-repeat;
 }
