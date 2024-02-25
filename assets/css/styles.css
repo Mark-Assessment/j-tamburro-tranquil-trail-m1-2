@@ -1,8 +1,6 @@
 body {
-    background-image: url('/assets/images/backgroundimage1.jpg');
-    background-position: top;
-
-    background-size: contain;
+    background-image: url('/assets/images/hero-image.jpg');
+    background-size: cover;
     background-color: rgba(216, 250, 215, 0.1);
     margin: 20px;
     padding: 50px;
@@ -23,8 +21,8 @@ header {
     align-items: left;
     color: #466043;
     padding: 10px;
-    background-color: rgba(255, 255, 255, 0.2);
-    /* Semi-transparent white */
+    background-color: brown(255, 255, 255, 0.2);
+
 }
 
 header::after {
@@ -33,10 +31,11 @@ header::after {
     clear: both;
 }
 
-.logo2 {
-    float: left;
-    width: 400px;
+.logo3 {
+    margin-right: 10px;
+    width: 300px;
     padding: 10px 0;
+    position: top;
 }
 
 .josefin-slab {
@@ -89,6 +88,22 @@ nav a:hover {
     color: burlywood !important;
 }
 
+.card {
+    background-color: rgba(216, 250, 215, 0.6);
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+    font-size: 18px;
+}
+
+.subheading {
+    text-align: center;
+}
 .text-section {
     text-align: center;
     font-family: "Josefin Slab", serif !important;
