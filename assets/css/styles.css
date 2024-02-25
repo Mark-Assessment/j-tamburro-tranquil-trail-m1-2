@@ -1,7 +1,11 @@
 body {
+    background-image: url('/assets/images/backgroundimage1.jpg');
+    background-position: top;
+
+    background-size: contain;
+    background-color: rgba(216, 250, 215, 0.1);
     margin: 20px;
     padding: 50px;
-    background-image: url('assets/images/backgroundimage1.jpg');
     font-family: "Josefin Slab", serif !important;
     display: flex;
     flex-direction: column;
@@ -9,16 +13,18 @@ body {
     justify-content: center;
     min-height: 100vh;
     font-size: 22px;
-    
+
 }
 
 header {
     width: 100%;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: left;
+    align-items: left;
     color: #466043;
     padding: 10px;
+    background-color: rgba(255, 255, 255, 0.2);
+    /* Semi-transparent white */
 }
 
 header::after {
@@ -27,9 +33,9 @@ header::after {
     clear: both;
 }
 
-.logo1 {
+.logo2 {
     float: left;
-    width: 300px;
+    width: 400px;
     padding: 10px 0;
 }
 
@@ -41,7 +47,7 @@ header::after {
 }
 
 nav {
-    float: right;
+    text-align: right;
 }
 
 nav ul {
@@ -118,7 +124,7 @@ nav a:hover {
 
 .locations {
     text-align: center;
-    color:#466043;
+    color: #466043;
     font-family: "Josefin Slab", serif !important;
     font-size: 28px;
     text-transform: uppercase;
@@ -142,10 +148,10 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: rgba(216, 250, 215, 0);
+    background-color: rgba(216, 250, 215, 0.3);
     flex: 1 0 auto;
     font-family: "Josefin Slab", serif !important;
-    
+
 }
 
 footer {
