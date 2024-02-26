@@ -85,7 +85,7 @@ nav a:hover::before {
 }
 
 nav a:hover {
-    color: #A0522D!important;
+    color: #A0522D !important;
 }
 
 .card {
@@ -227,18 +227,35 @@ footer {
 }
 
 .blockquote {
-    color:#466043;
+    color: #466043;
     background-color: rgba(216, 250, 215, 0.5);
     padding: 30px;
 }
 
 .card-benefits {
     text-align: center;
-    color:#466043;
+    color: #466043;
 }
 
-.container.text-center .row.row-cols-2 > div > img {
-    margin-bottom: 20px; 
+.container.text-center .row.row-cols-2>div>img {
+    margin-bottom: 20px;
     padding: 30px;
     border-radius: 5% !important;
+}
+
+#woman1 {
+    border-radius: 80%;
+    width: 100px;
+    align-items: center;
+}
+
+#man1 {
+    border-radius: 100%;
+    width: 80px;
+    align-items: center;
+}
+
+.testimonial {
+    text-align: center;
+    color: #466043;
 }
