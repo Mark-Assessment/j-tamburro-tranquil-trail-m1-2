@@ -228,5 +228,17 @@ footer {
 
 .blockquote {
     color:#466043;
+    background-color: rgba(216, 250, 215, 0.5);
+    padding: 30px;
 }
 
+.card-benefits {
+    text-align: center;
+    color:#466043;
+}
+
+.container.text-center .row.row-cols-2 > div > img {
+    margin-bottom: 20px; 
+    padding: 30px;
+    border-radius: 5% !important;
+}
