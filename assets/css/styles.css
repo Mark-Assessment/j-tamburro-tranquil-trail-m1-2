@@ -101,6 +101,10 @@ nav a:hover {
     }
 }
 
+#bedgeburycard {
+    padding-bottom: 11px;
+}
+
 .card-title {
     text-align: center;
     color: #466043;
