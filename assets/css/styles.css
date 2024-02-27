@@ -3,7 +3,7 @@ body {
     background-size: cover;
     background-color: rgba(216, 250, 215, 0.1);
     margin: 20px;
-    padding: 50px;
+    padding: 60px;
     font-family: "Josefin Slab", serif !important;
     display: flex;
     flex-direction: column;
@@ -42,6 +42,7 @@ header::after {
     font-weight: 300;
     font-style: normal;
 }
+
 
 nav {
     text-align: right;
@@ -97,7 +98,7 @@ nav a:hover {
 
 @media screen and (max-width: 768px) {
     .card {
-        margin-bottom: 20px; 
+        margin-bottom: 20px;
     }
 }
 
@@ -107,18 +108,22 @@ nav a:hover {
 
 .card-title {
     text-align: center;
-    color: #466043;
+    color:#466043;
+    padding-top: 10px;
 }
 
 .card-text {
     text-align: center;
-    font-size: 18px;
+    font-size: 20px;
     color: #466043;
+    margin: 35px;
+    padding-bottom: 10px;
 }
 
 .subheading {
     text-align: center;
-    color: #466043;
+    color:#466043;
+    font-size: 28px;
 }
 
 @media screen and (max-width: 768px) {
@@ -136,10 +141,11 @@ nav a:hover {
 }
 
 h1 {
-    font-size: 30px;
-    color: rgb(40, 128, 40);
+    font-size: 40px;
+    color:#466043 !important;
     text-align: left;
     text-transform: uppercase;
+    padding-top: 10px;
 }
 
 .h2 {
@@ -172,7 +178,7 @@ footer {
 }
 
 .follow-us {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     text-align: center;
 }
 
@@ -199,7 +205,7 @@ footer {
 #address,
 #email {
     text-align: center;
-    padding: 10px; 
+    padding: 10px;
 }
 
 @media screen and (max-width: 768px) {
@@ -209,9 +215,10 @@ footer {
     }
 
     #email {
-        font-size: 14px; 
+        font-size: 14px;
+    }
 }
-}
+
 .backgroundimage {
     position: relative;
     z-index: 1;
@@ -219,7 +226,7 @@ footer {
 }
 
 .blockquote {
-    color: #466043;
+    color:#466043;
     background-color: rgba(216, 250, 215, 0.5);
     padding: 30px;
 }
@@ -272,7 +279,7 @@ footer {
     color: #466043;
     font-family: "Josefin Slab", serif !important;
     font-size: 20px;
-    text-transform: uppercase;
+    text-transform: uppercase !important;
 }
 
 
@@ -284,24 +291,58 @@ footer {
 
 .card-benefits {
     background-color: rgba(216, 250, 215, 0.6);
-    color: #333;
-    padding: 20px;
+    
 }
 
 .card-body-benefits {
-    margin: 0;
+    margin-left: 50px;
+    padding: 50px;
 }
 
 .card-benefits li {
     margin-bottom: 10px;
+    color: #466043;
+    text-align: center;
+    
 }
 
 .card-benefits p {
-    margin-bottom: 20px;
+    color: #466043;
+    font-size: 22px;
+    text-align: justify;
+    padding-bottom: 10px;
 }
 
 .benefitsquote {
     background-color: rgba(216, 250, 215, 0.6);
+    font-family: "Josefin Slab", serif;
+    color:#466043;
 }
 
+.h3 {
+    color: #466043;
+
+}
+
+#benefitsquote {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 70px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.custom-heading1 {
+    color:#466043;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.fa-spa {
+    color: sienna;
+}
 .signup-form {}
