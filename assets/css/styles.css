@@ -29,33 +29,17 @@ header::after {
     clear: both;
 }
 
-.logo3 {
-    margin-right: 10px;
+.logo-container {
     width: 300px;
-    padding: 10px 0;
-    position: top;
+    display: flex;
+    margin-right: 10px;
 }
 
-@media screen and (max-width: 768px) {
-    header {
-        padding: 10px;
-    }
-
-    .logo3 {
-        width: 100px;
-    }
-
-    nav ul {
-        margin-top: 10px;
-    }
-
-    nav li {
-        margin-left: 20px;
-    }
-
-    nav a {
-        font-size: 16px;
-    }
+.logo3 {
+    width: 100%;
+    display: block;
+    object-fit: contain;
+    object-position: top;
 }
 
 .josefin-slab {
@@ -122,12 +106,6 @@ nav a:hover {
     padding: 10px;
 }
 
-@media screen and (max-width: 768px) {
-    .card {
-        margin-bottom: 20px;
-    }
-}
-
 #bedgeburycard {
     padding-bottom: 11px;
 }
@@ -151,12 +129,6 @@ nav a:hover {
     text-align: center;
     color: #466043;
     font-size: 28px;
-}
-
-@media screen and (max-width: 768px) {
-    .card img {
-        width: 100% !important;
-    }
 }
 
 .locations {
@@ -238,16 +210,10 @@ footer {
     padding: 20px;
 }
 
-@media screen and (max-width: 768px) {
-    .container-fluid {
-        flex: 0 0 100%;
-        margin-bottom: 20px;
-    }
-
     #email {
         font-size: 14px;
     }
-}
+
 
 .backgroundimage {
     position: relative;
@@ -278,7 +244,7 @@ footer {
 }
 
 #man1 {
-    border-radius: 100%;
+    border-radius: 80%;
     width: 60px;
     align-items: center;
 }
@@ -316,13 +282,6 @@ footer {
     font-family: "Josefin Slab", serif !important;
     font-size: 20px;
     text-transform: uppercase !important;
-}
-
-
-@media screen and (max-width: 768px) {
-    .col-md-4 {
-        text-align: center;
-    }
 }
 
 .card-benefits {
@@ -413,4 +372,56 @@ footer {
 
 .form-check-input[type="radio"]:checked {
     background-color: #466043;
+}
+
+
+@media screen and (max-width: 768px) {
+    .gallery-container>* {
+        width: 100% !important;
+    }
+
+    .container.text-center .row.row-cols-2>div>img {
+        padding: 5px !important;
+    }
+
+    header {
+        padding: 10px;
+    }
+
+    .logo-container {
+        width: 100px;
+    }
+
+    .testimonial-image-container {
+        width: 100px;
+    }
+
+    nav ul {
+        margin-top: 10px;
+    }
+
+    nav li {
+        margin-left: 20px;
+    }
+
+    nav a {
+        font-size: 16px;
+    }
+
+    .col-md-4 {
+        text-align: center;
+    }
+
+    .container-fluid {
+        flex: 0 0 100%;
+        margin-bottom: 20px;
+    }
+
+    .card img {
+        width: 100% !important;
+    }
+
+    .card {
+        margin-bottom: 20px;
+    }
 }
