@@ -1,7 +1,7 @@
 body {
     background-image: url('/assets/images/hero-image.jpg');
     background-size: cover;
-    background-color: rgba(216, 250, 215, 0.1);
+    background-color: rgba(216, 250, 215, 0.4);
     margin: 20px;
     padding: 60px;
     font-family: "Josefin Slab", serif !important;
@@ -34,6 +34,28 @@ header::after {
     width: 300px;
     padding: 10px 0;
     position: top;
+}
+
+@media screen and (max-width: 768px) {
+    header {
+        padding: 10px;
+    }
+
+    .logo3 {
+        width: 100px;
+    }
+
+    nav ul {
+        margin-top: 10px;
+    }
+
+    nav li {
+        margin-left: 20px;
+    }
+
+    nav a {
+        font-size: 16px;
+    }
 }
 
 .josefin-slab {
@@ -94,6 +116,10 @@ nav a:hover {
     margin-bottom: 20px;
     text-align: center;
     background-color: rgba(216, 250, 215, 0.6);
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    padding: 10px;
 }
 
 @media screen and (max-width: 768px) {
@@ -108,7 +134,7 @@ nav a:hover {
 
 .card-title {
     text-align: center;
-    color:#466043;
+    color: #466043;
     padding-top: 10px;
 }
 
@@ -118,11 +144,12 @@ nav a:hover {
     color: #466043;
     margin: 35px;
     padding-bottom: 10px;
+    padding-top: 10px;
 }
 
 .subheading {
     text-align: center;
-    color:#466043;
+    color: #466043;
     font-size: 28px;
 }
 
@@ -142,7 +169,7 @@ nav a:hover {
 
 h1 {
     font-size: 40px;
-    color:#466043 !important;
+    color: #466043 !important;
     text-align: left;
     text-transform: uppercase;
     padding-top: 10px;
@@ -178,7 +205,6 @@ footer {
 }
 
 .follow-us {
-    margin-bottom: 10px;
     text-align: center;
 }
 
@@ -202,10 +228,14 @@ footer {
     font-size: 20px;
 }
 
+.social-icons a:hover {
+    color: #A0522D;
+}
+
 #address,
 #email {
     text-align: center;
-    padding: 10px;
+    padding: 20px;
 }
 
 @media screen and (max-width: 768px) {
@@ -226,7 +256,7 @@ footer {
 }
 
 .blockquote {
-    color:#466043;
+    color: #466043;
     background-color: rgba(216, 250, 215, 0.5);
     padding: 30px;
 }
@@ -237,25 +267,31 @@ footer {
 
 .container.text-center .row.row-cols-2>div>img {
     margin-bottom: 20px;
-    padding: 30px;
+    padding: 40px;
     border-radius: 5% !important;
 }
 
 #woman1 {
     border-radius: 80%;
-    width: 100px;
+    width: 80px;
     align-items: center;
 }
 
 #man1 {
     border-radius: 100%;
-    width: 80px;
+    width: 60px;
     align-items: center;
 }
 
 .testimonial {
-    text-align: center;
-    color: #466043;
+    text-align: left;
+    color: #A0522D;
+    font-size: 20px;
+}
+
+.container-testimonials {
+    margin-bottom: 50px;
+    padding: 20px;
 }
 
 .card {
@@ -291,19 +327,24 @@ footer {
 
 .card-benefits {
     background-color: rgba(216, 250, 215, 0.6);
-    
+    padding-bottom: 10px;
+    margin-bottom: 40px;
+    padding-top: 20px;
+    margin-top: 10px;
 }
 
 .card-body-benefits {
     margin-left: 50px;
-    padding: 50px;
+    margin-right: 50px;
+    padding-top: 40px;
+    padding-bottom: 10px;
 }
 
 .card-benefits li {
     margin-bottom: 10px;
     color: #466043;
     text-align: center;
-    
+
 }
 
 .card-benefits p {
@@ -316,7 +357,7 @@ footer {
 .benefitsquote {
     background-color: rgba(216, 250, 215, 0.6);
     font-family: "Josefin Slab", serif;
-    color:#466043;
+    color: #466043;
 }
 
 .h3 {
@@ -337,7 +378,7 @@ footer {
 }
 
 .custom-heading1 {
-    color:#466043;
+    color: #466043;
     font-size: 30px;
     text-transform: uppercase;
 }
@@ -345,4 +386,31 @@ footer {
 .fa-spa {
     color: sienna;
 }
-.signup-form {}
+
+.signup-form {
+    background-color: rgba(216, 250, 215);
+    padding: 20px;
+
+}
+
+.signup {
+    color: #A0522D;
+}
+
+.form-check-label {
+    color: #466043;
+}
+
+.btn-primary {
+    background-color: #466043;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #A0522D;
+    color: white;
+}
+
+.form-check-input[type="radio"]:checked {
+    background-color: #466043;
+}
