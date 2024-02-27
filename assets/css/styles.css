@@ -11,7 +11,6 @@ body {
     justify-content: center;
     min-height: 100vh;
     font-size: 22px;
-
 }
 
 header {
@@ -22,7 +21,6 @@ header {
     color: #466043;
     padding: 30px;
     background-color: rgba(255, 255, 255, 0.2);
-
 }
 
 header::after {
@@ -68,6 +66,8 @@ nav a {
     text-transform: uppercase;
 }
 
+/* Below code for navbar sourced from a Kevin Powell navbar tutorial on YouTube */
+
 nav a::before {
     content: '';
     display: block;
@@ -108,39 +108,8 @@ nav a:hover {
     color: #466043;
 }
 
-.container {
-    display: flex;
-    justify-content: space-between;
-    width: 100% !important;
-}
-
-.container img {
-    max-width: 100% !important;
-    height: auto !important;
-}
-
-#img-small1,
-#img-small2,
-#img-small3 {
-    max-width: 100% !important;
-    margin-right: 30px !important;
-    padding: 10px;
-    justify-content: space-between;
-    display: grid;
-}
-
-#img-small1 img,
-#img-small2 img,
-#img-small3 img {
-    height: auto !important;
-}
-
-
 @media screen and (max-width: 768px) {
-
-    #img-small1 img,
-    #img-small2 img,
-    #img-small3 img {
+    .card img {
         width: 100% !important;
     }
 }
@@ -160,7 +129,6 @@ h1 {
     text-transform: uppercase;
 }
 
-
 .h2 {
     justify-content: center;
 }
@@ -174,7 +142,6 @@ main {
     background-color: rgba(216, 250, 215, 0.3);
     flex: 1 0 auto;
     font-family: "Josefin Slab", serif !important;
-
 }
 
 footer {
@@ -234,7 +201,6 @@ footer {
 
 .card-benefits {
     text-align: center;
-    color: #466043;
 }
 
 .container.text-center .row.row-cols-2>div>img {
@@ -258,4 +224,60 @@ footer {
 .testimonial {
     text-align: center;
     color: #466043;
+}
+
+.card {
+    margin-bottom: 20px;
+    text-align: center; 
+}
+
+.card-title {
+    color: #466043;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.card img {
+    max-width: 100%;
+}
+
+.locations {
+    color: #466043;
+    font-family: "Josefin Slab", serif !important;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+
+@media screen and (max-width: 768px) {
+    .col-md-4 {
+        text-align: center;
+    }
+}
+
+.card-benefits {
+    background-color: rgba(216, 250, 215, 0.6);
+    color: #333; 
+    padding: 20px; 
+}
+
+.card-body-benefits {
+    margin: 0; 
+}
+
+.card-benefits li {
+    margin-bottom: 10px; 
+}
+
+.card-benefits p {
+    margin-bottom: 20px; 
+}
+
+.benefitsquote {
+    background-color: rgba(216, 250, 215, 0.6);
+}
+.signup-form {
+    
 }
