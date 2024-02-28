@@ -453,8 +453,12 @@ footer {
         font-size: 16px;
     }
 
-    .col-md-4 {
+    .col-md-4 * {
         text-align: center;
+        display: flex;
+        flex-wrap: wrap;
+        white-space: normal;
+        flex-basis: 100%;
     }
 
     .container-fluid {
