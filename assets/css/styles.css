@@ -33,14 +33,16 @@ header::after {
 
 /* Logo styling below */
 .logo-container {
-    width: 200px;
+    width: 100%; 
+    max-width: 200px; 
     display: flex;
+    align-items: center; 
     margin-right: 10px;
 }
 
 .logo3 {
-    width: 100%;
-    display: block;
+    width: auto; 
+    max-height: 100px; 
     object-fit: contain;
     object-position: top;
 }
