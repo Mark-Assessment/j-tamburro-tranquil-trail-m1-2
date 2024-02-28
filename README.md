@@ -1,4 +1,5 @@
 # Tranquil-Trail Wellness
+You can visit the live site [here](https://jtam90.github.io/Tranquil-Trail-Wellness/).
 For my Milestone Project 1 in L5 Web Application Development, I have designed and created a website called Tranquil-Trail Wellness. This website has been created with the intention of a social walking group being immersed in nature for the purpose of focusing on health and wellbeing, as well as making new connections with like-minded people. This website has been developed in such a way that it should be easy for users to navigate, as well as being fully accessible and responsive, covering a range of different devices.
 ## User Experience - UX
 ### User Stories
@@ -29,12 +30,12 @@ The two main colours I have used across my website are:
 
 - **Green**
   - Hex Code: #466043
-  - Example: ![Green](https://via.placeholder.com/15/466043/000000?text=+)
+  - ![Green](https://via.placeholder.com/15/466043/000000?text=+)
   - Description: Represents nature, tranquility and a sense of calm.
 
 - **Brown**
   - Hex Code: #A0522D
-  - Example: ![Brown](https://via.placeholder.com/15/A0522D/000000?text=+)
+  - ![Brown](https://via.placeholder.com/15/A0522D/000000?text=+)
   - Description: Symbolizes earthiness and warmth.
 
 I have chosen these two colours as I feel they represent nature well, and therefore fit in with my website's theme.
@@ -43,7 +44,7 @@ I have also used:
 
 - **White**
   - Hex Code: #FFFFFF
-  - Example: ![White](https://via.placeholder.com/15/FFFFFF/000000?text=+)
+  - ![White](https://via.placeholder.com/15/FFFFFF/000000?text=+)
   - Description: Used for text on my submit button to ensure readability against the background colours.
 
 
