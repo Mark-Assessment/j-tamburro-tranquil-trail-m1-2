@@ -29,11 +29,11 @@ The two main colours I have used across my website are:
 
 ## Green
 - Hex Code #466043 
-- Example: <span style="color:#466043, background-color=#466043;">
+- Example: <span style="color:#466043, background-color=#466043;">Green</span>
 
 ## Brown
 - Hex Code #A0522D
-- Example: <span style="color=#A0522D, background-color=#A0522D;">
+- Example: <span style="color=#A0522D, background-color=#A0522D;">Brown</span>
 
 I have chosen these two colours as I feel they represent nature well, and therefore fit in with my website's theme.
 
@@ -41,7 +41,7 @@ I have also used
 
 ## White
 - Hex Code #FFFFFF
-- Example: <span style="color=#FFFFFF; background-color=#FFFFFF;">
+- Example: <span style="color=#FFFFFF; background-color=#FFFFFF;">White</span>
 
 I have used white for the text on my submit button as it shows up nicely against the green and the brown.
 
