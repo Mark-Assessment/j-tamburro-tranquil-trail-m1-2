@@ -407,6 +407,18 @@ footer {
     background-color: #466043;
 }
 
+/* Registered page styling */
+.container-complete {
+    background-color: rgba(216, 250, 215, 0.5);
+    color: #466043;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    padding-left: 60px;
+    padding-right: 90px;
+    margin: 50px;
+    text-align: center;
+}
+
 /* Styling for responsive design across all devices on various code below */
 @media screen and (max-width: 768px) {
     .gallery-container>* {
