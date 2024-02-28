@@ -1,6 +1,7 @@
 # Tranquil-Trail Wellness
 For my Milestone Project 1 in L5 Web Application Development, I have designed and created a website called Tranquil-Trail Wellness. This website has been created with the intention of a social walking group being immersed in nature for the purpose of focusing on health and wellbeing, as well as making new connections with like-minded people. This website has been developed in such a way that it should be easy for users to navigate, as well as being fully accessible and responsive, covering a range of different devices.
-# User Stories
+## User Experience - UX
+### User Stories
 First Time User- 
 
 - As a First Time User, I would like to find out the purpose of the site and what it is that is being offered.
@@ -19,3 +20,32 @@ Frequent User-
 
 - As a Frequent User, I would like to be able to keep up to date with events the group are running through the social media platforms linked.
 - As a Frequent User, I would like to be able to check if locations, dates and times are changed or updated.
+
+# Design
+
+## Colour Scheme
+
+The two main colours I have used across my website are:
+
+## Green
+- Hex Code #466043 
+- Example: <span style="color:#466043">Green</span>
+
+## Brown
+- Hex Code #A0522D
+- Example: <span style="color=#A0522D">Brown</span>
+
+I have chosen these two colours as I feel they represent nature well, and therefore fit in with my website's theme.
+
+I have also used 
+
+## White
+- Hex Code #FFFFFF
+- Example: <span style="color=#FFFFFF">White</span>
+
+I have used white for the text on my submit button as it shows up nicely against the green and the brown.
+
+
+
+
+
