@@ -1,5 +1,7 @@
 # Tranquil-Trail Wellness
+
 You can visit the live site [here](https://jtam90.github.io/Tranquil-Trail-Wellness/).
+
 For my Milestone Project 1 in L5 Web Application Development, I have designed and created a website called Tranquil-Trail Wellness. This website has been created with the intention of a social walking group being immersed in nature for the purpose of focusing on health and wellbeing, as well as making new connections with like-minded people. This website has been developed in such a way that it should be easy for users to navigate, as well as being fully accessible and responsive, covering a range of different devices.
 ## User Experience - UX
 ### User Stories

@@ -33,16 +33,16 @@ header::after {
 
 /* Logo styling below */
 .logo-container {
-    width: 100%; 
-    max-width: 200px; 
+    width: 100%;
+    max-width: 200px;
     display: flex;
-    align-items: center; 
+    align-items: center;
     margin-right: 10px;
 }
 
 .logo3 {
-    width: auto; 
-    max-height: 100px; 
+    width: auto;
+    max-height: 100px;
     object-fit: contain;
     object-position: top;
 }
@@ -270,8 +270,23 @@ footer {
     font-size: 20px;
 }
 
+.testimonial1 {
+    background-color: rgba(216, 250, 215, 0.4);
+    padding: 20px;
+    margin-right: 80px;
+    margin-left: 20px;
+}
+
+.testimonial2 {
+    background-color: rgba(216, 250, 215, 0.4);
+    padding: 20px;
+    margin-right: 80px;
+    margin-left: 20px;
+}
+
 .container-testimonials {
     margin-bottom: 50px;
+    margin-left: 50px;
     padding: 20px;
 }
 
