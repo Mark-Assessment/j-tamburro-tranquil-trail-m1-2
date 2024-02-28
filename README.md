@@ -27,23 +27,24 @@ Frequent User-
 
 The two main colours I have used across my website are:
 
-## Green
-- Hex Code #466043 
-- Example: <span style="color:#466043, background-color=#466043;">Green</span>
+- **Green**
+  - Hex Code: #466043
+  - Example: ![Green](https://via.placeholder.com/15/466043/000000?text=+)
+  - Description: Represents nature, tranquility and a sense of calm.
 
-## Brown
-- Hex Code #A0522D
-- Example: <span style="color=#A0522D, background-color=#A0522D;">Brown</span>
+- **Brown**
+  - Hex Code: #A0522D
+  - Example: ![Brown](https://via.placeholder.com/15/A0522D/000000?text=+)
+  - Description: Symbolizes earthiness and warmth.
 
 I have chosen these two colours as I feel they represent nature well, and therefore fit in with my website's theme.
 
-I have also used 
+I have also used:
 
-## White
-- Hex Code #FFFFFF
-- Example: <span style="color=#FFFFFF; background-color=#FFFFFF;">White</span>
-
-I have used white for the text on my submit button as it shows up nicely against the green and the brown.
+- **White**
+  - Hex Code: #FFFFFF
+  - Example: ![White](https://via.placeholder.com/15/FFFFFF/000000?text=+)
+  - Description: Used for text on my submit button to ensure readability against the background colours.
 
 
 
