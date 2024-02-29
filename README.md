@@ -49,6 +49,10 @@ I have also used:
   - ![White](https://via.placeholder.com/15/FFFFFF/000000?text=+)
   - Description: Used for text on my submit button to ensure readability against the background colours.
 
+  ## Typography
+
+  I have used the font "Josefin Slab" as my main font throughout the site, with a fall back font of "serif" for easy readability. I used <a href="https://www.googlefonts.com">Google Fonts</a> for this.
+
 
 
 
