@@ -30,9 +30,9 @@ header::after {
 
 /* Logo styling below */
 .logo-container {
-    width: 100%;
-    max-width: 200px;
+    width: auto;
     display: flex;
+    max-width: 200px;
     align-items: center;
     margin-right: 10px;
 }
@@ -42,6 +42,12 @@ header::after {
     max-height: 100px;
     object-fit: contain;
     object-position: top;
+}
+
+.logo-nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
 /* Font styling below */
@@ -110,7 +116,7 @@ nav a:hover {
 }
 
 #bedgeburycard {
-    padding-bottom: 11px;
+    padding-bottom: 10px;
 }
 
 .card-title {
@@ -214,7 +220,7 @@ footer {
 }
 
 #address,
-#email1 {
+#email {
     text-align: center;
     padding: 20px;
 }
@@ -239,6 +245,7 @@ footer {
 
 .card-benefits {
     text-align: center;
+    margin: 50px;
 }
 
 .container.text-center .row.row-cols-2>div>img {
@@ -420,14 +427,6 @@ footer {
         width: 100% !important;
     }
 
-    .container.text-center .row.row-cols-2>div>img {
-        padding: 5px !important;
-    }
-
-    header {
-        padding: 10px;
-    }
-
     .logo-container {
         width: 100px;
     }
@@ -436,8 +435,12 @@ footer {
         width: 100% !important;
     }
 
-    .testimonial-image-container {
-        width: 100px;
+    .container.text-center .row.row-cols-2>div>img {
+        padding: 5px !important;
+    }
+
+    header {
+        padding: 10px;
     }
 
     nav ul {
@@ -452,6 +455,10 @@ footer {
 
     nav a {
         font-size: 16px;
+    }
+
+    .testimonial-image-container {
+        width: 100px;
     }
 
     .col-md-4 * {
