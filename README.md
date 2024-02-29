@@ -51,8 +51,16 @@ I have also used:
 
   ## Typography
 
-  I have used the font "Josefin Slab" as my main font throughout the site, with a fall back font of "serif" for easy readability. I used <a href="https://www.googlefonts.com">Google Fonts</a> for this.
+  I have used the font "Josefin Slab" as my main font throughout the site, with a fall back font of "serif" for easy readability. I have chosen this font because I think it's soft, and blends with the nature theme well. I have used <a href="https://fonts.google.com">Google Fonts</a> for this.
   ![Font Screenshot](/documents/fontexample.png)
+
+  ## Imagery
+
+  My website displays a background image showing a photo of a walking group out in nature. It sets the background to a natural lovely green hue which adds to the calming feel, purpose and aim of what the website is for in the first place. The blue sky of the photo is perfectly in line with my navbar and logo, which automatically separates it from the rest of the site. 
+
+  # Wireframes
+
+
 
 
 
