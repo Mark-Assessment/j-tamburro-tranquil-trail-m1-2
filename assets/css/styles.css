@@ -445,7 +445,6 @@ footer {
 
     nav {
         text-align: center;
-        /* Center-align the menu items */
     }
 
     nav ul {
@@ -456,7 +455,6 @@ footer {
     nav li {
         display: block;
         margin: 10px 0;
-        /* Adjust the vertical spacing between menu items */
         font-size: 14px;
     }
 }
