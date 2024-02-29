@@ -383,7 +383,7 @@ footer {
 
 /* Sign-Up page styling for Sign-Up form below */
 .signup-form {
-    background-color: rgba(216, 250, 215);
+    background-color: rgba(216, 250, 215, 0.7) !important;
     padding: 20px;
 }
 
