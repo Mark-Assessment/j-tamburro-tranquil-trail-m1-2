@@ -17,7 +17,6 @@ header {
     width: 100%;
     display: flex;
     justify-content: left;
-    align-items: left;
     color: #466043;
     padding: 30px;
     background-color: rgba(255, 255, 255, 0.2);
@@ -48,7 +47,6 @@ header::after {
 /* Font styling below */
 .josefin-slab {
     font-family: "Josefin Slab", serif;
-    font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
 }
