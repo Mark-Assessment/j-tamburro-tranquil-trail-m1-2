@@ -52,6 +52,7 @@ I have also used:
   ## Typography
 
   I have used the font "Josefin Slab" as my main font throughout the site, with a fall back font of "serif" for easy readability. I used <a href="https://www.googlefonts.com">Google Fonts</a> for this.
+  ![Font Screenshot](/documents/fontexample.png)
 
 
 
