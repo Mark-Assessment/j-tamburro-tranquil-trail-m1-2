@@ -62,21 +62,21 @@ I have also used:
 
   ## Desktop
   
-  - Home Page ![Wireframescreenshot](/documents/wireframes/Desktop-HomePage.png)
-  - Gallery Page ![Wireframescreenshot](/documents/wireframes/Desktop-Gallery.png)
-  - Sign Up Page ![Wireframescreenshot](/documents/wireframes/Desktop-SignUp.png)
+  - Home Page ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-HomePage.png)
+  - Gallery Page ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-Gallery.png)
+  - Sign Up Page ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-SignUp.png)
 
   ## Tablet
 
-  - Home Page ![Wireframescreenshot](/documents/wireframes/Tablet-HomePage.png)
-  - Gallery Page ![Wireframescreenshot](/documents/wireframes/Tablet-Gallery.png)
-  - Sign Up Page ![Wireframescreenshot](/documents/wireframes/Tablet-SignUp.png)
+  - Home Page ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-HomePage.png)
+  - Gallery Page ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-Gallery.png)
+  - Sign Up Page ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-SignUp.png)
 
   ## Mobile
 
-  - Home Page ![Wireframescreenshot](/documents/wireframes/Mobile-HomePage.png)
-  - Gallery Page ![Wireframescreenshot](/documents/wireframes/Mobile-Gallery.png)
-  - Sign Up Page ![Wireframescreenshot](/documents/wireframes/Mobile-SignUp.png)
+  - Home Page ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-HomePage.png)
+  - Gallery Page ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-Gallery.png)
+  - Sign Up Page ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-SignUp.png)
 
 
 
