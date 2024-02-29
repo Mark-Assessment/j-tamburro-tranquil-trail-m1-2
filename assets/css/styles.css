@@ -443,43 +443,46 @@ footer {
         padding: 10px;
     }
 
+    nav {
+        text-align: center;
+        /* Center-align the menu items */
+    }
+
     nav ul {
-        margin-top: 10px;
+        display: inline-block;
+        padding: 0;
     }
 
     nav li {
-        margin-left: 10px;
-        margin-right: 10px;
-        margin-top: 10px;
+        display: block;
+        margin: 10px 0;
+        /* Adjust the vertical spacing between menu items */
+        font-size: 14px;
     }
+}
 
-    nav a {
-        font-size: 16px;
-    }
+.testimonial-image-container {
+    width: 100px;
+}
 
-    .testimonial-image-container {
-        width: 100px;
-    }
+.col-md-4 * {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    white-space: normal;
+    flex-basis: 100%;
+}
 
-    .col-md-4 * {
-        text-align: center;
-        justify-content: center;
-        display: flex;
-        flex-wrap: wrap;
-        white-space: normal;
-        flex-basis: 100%;
-    }
+.container-fluid {
+    flex: 0 0 100%;
+    margin-bottom: 20px;
+}
 
-    .container-fluid {
-        flex: 0 0 100%;
-        margin-bottom: 20px;
-    }
+.card img {
+    width: 100% !important;
+}
 
-    .card img {
-        width: 100% !important;
-    }
-
-    .card {
-        margin-bottom: 20px;
-    }
+.card {
+    margin-bottom: 20px;
 }
