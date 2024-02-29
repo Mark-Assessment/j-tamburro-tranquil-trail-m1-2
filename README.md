@@ -60,8 +60,23 @@ I have also used:
 
   # Wireframes
 
+  ## Desktop
+  
+  - Home Page ![Wireframescreenshot](/documents/wireframes/Desktop-HomePage.png)
+  - Gallery Page ![Wireframescreenshot](/documents/wireframes/Desktop-Gallery.png)
+  - Sign Up Page ![Wireframescreenshot](/documents/wireframes/Desktop-SignUp.png)
 
+  ## Tablet
 
+  - Home Page ![Wireframescreenshot](/documents/wireframes/Tablet-HomePage.png)
+  - Gallery Page ![Wireframescreenshot](/documents/wireframes/Tablet-Gallery.png)
+  - Sign Up Page ![Wireframescreenshot](/documents/wireframes/Tablet-SignUp.png)
+
+  ## Mobile
+
+  - Home Page ![Wireframescreenshot](/documents/wireframes/Mobile-HomePage.png)
+  - Gallery Page ![Wireframescreenshot](/documents/wireframes/Mobile-Gallery.png)
+  - Sign Up Page ![Wireframescreenshot](/documents/wireframes/Mobile-SignUp.png)
 
 
 
