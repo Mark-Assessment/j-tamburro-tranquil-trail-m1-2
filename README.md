@@ -205,7 +205,7 @@ The features include:
 
 - A simple message to thank the user for signing up and what the next steps are. It also contains two green tree icons with one being at the top and one being at the bottom.
 
-![Extra](/documents/screenshots/sign-up.png)
+![Extra](/documents/screenshots/extra.png)
 
 ## Footer
 
@@ -217,3 +217,40 @@ The footer features are:
 - On the right-hand side - text that says "Phone Us" and underneath it, a phone number. This is displayed under the email address, and is in a smaller font to allow it to be responsive on all devices.
 
 ![Footer](/documents/screenshots/footer.png)
+
+##Technologies Used
+
+- Bootstrap 5.3:
+Bootstrap helped with layout and styling and ensuring that the site is responsive.
+
+- Google Fonts:
+Google Fonts was used for the Josefin Slab font that is used throughout the site, which was copied into the HTML and CSS code.
+
+- Font Awesome:
+Font Awesome was used for the lotus flower icons on the Benefits page, the tree icons on the Extra page and the social media icons which appear on every page of the website.
+
+- Balsamiq:
+Balsamiq was used to create my wireframes for desktop, tablet and mobile devices.
+
+- Logomakr:
+Logomakr was used to design and create the logo which appears on every page of the website.
+
+- Git:
+Git was used for the version control of the website.
+
+- Github:
+Github was used to host the code of the website.
+
+- Pexels:
+Pexels was used for the background image, the gallery images and the testimonial images.
+
+
+#Languages Used
+
+- HTML5
+- CSS3
+
+
+
+
+
