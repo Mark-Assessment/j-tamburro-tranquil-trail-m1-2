@@ -1,4 +1,4 @@
-# Tranquil-Trail Wellness
+ # <center> Tranquil-Trail Wellness </center>
 
 You can visit the live site [here]( https://jtam90.github.io/Tranquil-Trail-Wellness/).
 
@@ -35,13 +35,13 @@ The two main colours I have used across my website are:
 
 - **Green**
   - Hex Code: #466043
-  - ![Green](https://via.placeholder.com/15/466043/000000?text=+)
-  - Description: Represents nature, tranquility and a sense of calm.
+    ![Green](https://via.placeholder.com/15/466043/000000?text=+)
+  - Represents nature, tranquility and a sense of calm.
 
 - **Brown**
   - Hex Code: #A0522D
-  - ![Brown](https://via.placeholder.com/15/A0522D/000000?text=+)
-  - Description: Symbolizes earthiness and warmth.
+   ![Brown](https://via.placeholder.com/15/A0522D/000000?text=+)
+  - Symbolizes earthiness and warmth.
 
 I have chosen these two colours as I feel they represent nature well, and therefore fit in with my website's theme.
 
@@ -49,8 +49,7 @@ I have also used:
 
 - **White**
   - Hex Code: #FFFFFF
-  - ![White](https://via.placeholder.com/15/FFFFFF/000000?text=+)
-  - Description: Used for text on my submit button to ensure readability against the background colours.
+  - Used for text on my submit button to ensure readability against the background colours.
 
   ## Typography
 
@@ -115,7 +114,7 @@ I have also used:
 
 - The Navbar is positioned at the top of each page.
 - The Navbar contains the logo on the left-hand side.
-- The Navbar contains the menu which is centered.
+- The Navbar contains the menu which is slightly off-center, to the left.
 
 It is easy to read and offers clear navigation.
 
