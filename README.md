@@ -253,7 +253,7 @@ The footer features are:
 
 
 
-# Languages Used
+## Languages Used
 
 - HTML5
 - CSS3
@@ -298,4 +298,27 @@ Frequent User-
  - The user has the option of visiting the social media platforms via the links, different contact methods and via receiving automatic emails with updates.
 
 
+## Advanced Testing
 
+Testing has been completed in a variety of ways:
+
+ - Browsers
+ 
+ I have tested the website on three different browers. All three browsers display all pages of the website as it should. Each page of the website looked identical on all three browsers.
+  - Google Chrome
+  - Microsoft Edge
+  - Brave
+
+ - Online responsive tools
+
+ I have used online responsive tools to show what my website looks like on a range of different devices. Below is a screenshot which shows my website as it would be seen on the following devices:
+  - iPhone XS, X 375x812
+  - Galaxy S9 Plus, S8 Plus 412x846
+  - Galaxy S9, Note 8, S8 360x740
+  - Medium Screen 1024x800
+
+[Responsive-Home](/documents/screenshots/reponsivetoolhome.png)
+[Responsive-Benefits](/documents/screenshots/responsivetoolbenefits.png)
+[Responsive-Gallery](/documents/screenshots/responsivetoolgallery.png)
+[Responsive-SignUp](/documents/screenshots/responsivetoolsignup.png)
+[Responsive-Extra](/documents/screenshots/responsivetoolextra.png)
