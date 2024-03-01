@@ -246,6 +246,7 @@ footer {
 .card-benefits {
     text-align: center;
     margin: 50px;
+    word-break: break-all;
 }
 
 .container.text-center .row.row-cols-2>div>img {
@@ -445,6 +446,7 @@ footer {
 
     nav {
         text-align: center;
+
     }
 
     nav ul {
@@ -457,30 +459,30 @@ footer {
         margin: 10px 0;
         font-size: 14px;
     }
-}
 
-.testimonial-image-container {
-    width: 100px;
-}
+    .testimonial-image-container {
+        width: 100px;
+    }
 
-.col-md-4 * {
-    text-align: center;
-    justify-content: center;
-    display: flex;
-    flex-wrap: wrap;
-    white-space: normal;
-    flex-basis: 100%;
-}
+    .col-md-4 * {
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
+        white-space: normal;
+        flex-basis: 100%;
+    }
 
-.container-fluid {
-    flex: 0 0 100%;
-    margin-bottom: 20px;
-}
+    .container-fluid {
+        flex: 0 0 100%;
+        margin-bottom: 20px;
+    }
 
-.card img {
-    width: 100% !important;
-}
+    .card img {
+        width: 100% !important;
+    }
 
-.card {
-    margin-bottom: 20px;
+    .card {
+        margin-bottom: 20px;
+    }
 }
