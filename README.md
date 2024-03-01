@@ -116,19 +116,19 @@ I have also used:
 
 - The Navbar is positioned at the top of each page.
 - The Navbar contains the logo on the left-hand side.
-- The Navbar contains the menu which is slightly off-center, to the left.
+- The Navbar contains the menu which is slightly off-centre, to the left.
 
 It is easy to read and offers clear navigation.
 
 The Navbar menu contains:
 
-- "Home" - This is the main page, which describes what the purpose of the website is for, along with locations, days and times of the meet ups.
+- **Home** - This is the default page, describing to users what the website is about.
 
-- "Benefits" - This is the second page, which explains in detail what the health benefits are of being in nature. It also contains a quote at the top of the page.
+- **Benefits** - This is the second page, where users can read about the health benefits.
 
-- "Gallery" - This is the third page, which displays six different photos.
+- **Gallery** - This is the third page, where users can view six different photos.
 
-- "Sign Up" - This is the fourth page, which contains a sign-up form requiring First Name, Last Name and Email Address, along with a selection of four different choices of locations and a submit button. Underneath the sign-up form are two testimonials, each with a picture of the person.
+- **Sign Up** - This is the fourth page, which contains a sign-up form requiring First Name, Last Name and Email Address, along with a selection of four different choices of locations and a submit button. Underneath the sign-up form are two testimonials, each with a picture of the person.
 
 The links include an animated hover effect, which have the font colour of #466043 and then changes to #A0522D upon hovering.
 
@@ -142,9 +142,14 @@ The Navigation is responsive across all devices.
 
 -Tablet
 
-![Navbar](/documents/navbar-ipad.png)
-![Navbar](/documents/navbar-ipadpro10.5inch.png)
-![Navbar](/documents/navbar-ipadpro12.9inch.png)
+**iPad**![Navbar](/documents/navbar-ipad.png)
+**iPad Pro 10.5 inch**![Navbar](/documents/navbar-ipadpro10.5inch.png)
+**iPad Pro 12.9 inch**![Navbar](/documents/navbar-ipadpro12.9inch.png)
 
+On Tablet devices, as seen above, the menu changes position depending on the size of screen. Please see ![Bugs](/testing/errors/bugs/).
 
+## Home Page
 
+The Home Page features include:
+
+- 
