@@ -35,12 +35,12 @@ The two main colours I have used across my website are:
 
 - **Green**
   - Hex Code: #466043
-    ![Green](https://via.placeholder.com/15/466043/000000?text=+)
+     ![Green](https://via.placeholder.com/15/466043/000000?text=+)
   - Represents nature, tranquility and a sense of calm.
 
 - **Brown**
   - Hex Code: #A0522D
-   ![Brown](https://via.placeholder.com/15/A0522D/000000?text=+)
+    ![Brown](https://via.placeholder.com/15/A0522D/000000?text=+)
   - Symbolizes earthiness and warmth.
 
 I have chosen these two colours as I feel they represent nature well, and therefore fit in with my website's theme.
