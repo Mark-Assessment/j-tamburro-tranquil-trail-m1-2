@@ -104,6 +104,14 @@ I have also used:
   
   ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-SignUp.png)
 
+# Features
 
+## Navbar
+
+### Navigation 
+
+- The Navbar is positioned at the top of each page.
+- The Navbar contains the logo on the left-hand side.
+- 
 
 
