@@ -4,6 +4,7 @@ You can visit the live site [here]( https://jtam90.github.io/Tranquil-Trail-Well
 
 For my Milestone Project 1 in L5 Web Application Development, I have designed and created a website called Tranquil-Trail Wellness. This website has been created with the intention of a social walking group being immersed in nature for the purpose of focusing on health and wellbeing, as well as making new connections with like-minded people. This website has been developed in such a way that it should be easy for users to navigate, as well as being fully accessible and responsive, covering a range of different devices.
 
+
 ![ResponsiveView](/documents/responsive.png)
 
 ## User Experience - UX
@@ -40,7 +41,6 @@ The two main colours I have used across my website are:
   Represents nature, tranquility and a sense of calm.
 
 - **Brown**
-
 ![Brown](https://via.placeholder.com/15/A0522D/000000?text=+)
 
   Hex Code: #A0522D
@@ -157,7 +157,7 @@ The Navigation is responsive across all devices.
 ![Navbar](/documents/navbar-ipadpro12.9inch.png)
 
 
-On Tablet devices, as seen above, the menu changes position depending on the size of screen. Please see ![Bugs].
+On Tablet devices, as seen above, the menu changes position depending on the size of screen. Please see ![Bugs](/testing/errors/bugs/)
 
 ## Home Page
 
@@ -216,33 +216,33 @@ The footer features are:
 - On the right-hand side - text that says "Email Us" and underneath it, an email address.
 - On the right-hand side - text that says "Phone Us" and underneath it, a phone number. This is displayed under the email address, and is in a smaller font to allow it to be responsive on all devices.
 
-![Footer](/documents/screenshots/footer.PNG)
+![Footer](/documents/screenshots/footer.png)
 
-##Technologies Used
+## Technologies Used
 
 - Bootstrap 5.3:
-Bootstrap helped with layout and styling and ensuring that the site is responsive.
+   - Bootstrap helped with layout and styling and ensuring that the site is responsive.
 
 - Google Fonts:
-Google Fonts was used for the Josefin Slab font that is used throughout the site, which was copied into the HTML and CSS code.
+   - Google Fonts was used for the Josefin Slab font that is used throughout the site, which was copied into the HTML and CSS code.
 
 - Font Awesome:
-Font Awesome was used for the lotus flower icons on the Benefits page, the tree icons on the Extra page and the social media icons which appear on every page of the website.
+   - Font Awesome was used for the lotus flower icons on the Benefits page, the tree icons on the Extra page and the social media icons which appear on every page of the website.
 
 - Balsamiq:
-Balsamiq was used to create my wireframes for desktop, tablet and mobile devices.
+   - Balsamiq was used to create my wireframes for desktop, tablet and mobile devices.
 
 - Logomakr:
-Logomakr was used to design and create the logo which appears on every page of the website.
+   - Logomakr was used to design and create the logo which appears on every page of the website.
 
 - Git:
-Git was used for the version control of the website.
+   - Git was used for the version control of the website.
 
 - Github:
-Github was used to host the code of the website.
+   - Github was used to host the code of the website.
 
 - Pexels:
-Pexels was used for the background image, the gallery images and the testimonial images.
+   - Pexels was used for the background image, the gallery images and the testimonial images.
 
 
 #Languages Used
