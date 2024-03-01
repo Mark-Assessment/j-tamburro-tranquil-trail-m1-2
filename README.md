@@ -3,6 +3,9 @@
 You can visit the live site [here]( https://jtam90.github.io/Tranquil-Trail-Wellness/).
 
 For my Milestone Project 1 in L5 Web Application Development, I have designed and created a website called Tranquil-Trail Wellness. This website has been created with the intention of a social walking group being immersed in nature for the purpose of focusing on health and wellbeing, as well as making new connections with like-minded people. This website has been developed in such a way that it should be easy for users to navigate, as well as being fully accessible and responsive, covering a range of different devices.
+
+![ResponsiveView](/documents/responsive.png)
+
 ## User Experience - UX
 ### User Stories
 First Time User- 
@@ -112,6 +115,35 @@ I have also used:
 
 - The Navbar is positioned at the top of each page.
 - The Navbar contains the logo on the left-hand side.
-- 
+- The Navbar contains the menu which is centered.
+
+It is easy to read and offers clear navigation.
+
+The Navbar menu contains:
+
+- "Home" - This is the main page, which describes what the purpose of the website is for, along with locations, days and times of the meet ups.
+
+- "Benefits" - This is the second page, which explains in detail what the health benefits are of being in nature. It also contains a quote at the top of the page.
+
+- "Gallery" - This is the third page, which displays six different photos.
+
+- "Sign Up" - This is the fourth page, which contains a sign-up form requiring First Name, Last Name and Email Address, along with a selection of four different choices of locations and a submit button. Underneath the sign-up form are two testimonials, each with a picture of the person.
+
+The links include an animated hover effect, which have the font colour of #466043 and then changes to #A0522D upon hovering.
+
+![Navbar](/documents/navbar.png)
+
+The Navigation is responsive across all devices.
+
+-Mobile 
+
+![Navbar](/documents/navbar-mobile.png)
+
+-Tablet
+
+![Navbar](/documents/navbar-ipad.png)
+![Navbar](/documents/navbar-ipadpro10.5inch.png)
+![Navbar](/documents/navbar-ipadpro12.9inch.png)
+
 
 
