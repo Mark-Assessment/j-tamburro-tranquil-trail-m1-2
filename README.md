@@ -37,16 +37,16 @@ The two main colours I have used across my website are:
 - **Green**
 ![Green](https://via.placeholder.com/15/466043/000000?text=+)
 
-  Hex Code: #466043
-  Represents nature, tranquility and a sense of calm.
+  - Hex Code: #466043
+  - Represents nature, tranquility and a sense of calm.
 
 - **Brown**
 ![Brown](https://via.placeholder.com/15/A0522D/000000?text=+)
 
-  Hex Code: #A0522D
-  Symbolizes earthiness and warmth.
+  - Hex Code: #A0522D
+  - Symbolizes earthiness and warmth.
 
-I have chosen these two colours as I feel they represent nature well, and therefore fit in with the website's theme.
+I have chosen these two colours as they represent nature well, and therefore fit in with the website's theme.
 
 I have also used:
 
@@ -223,26 +223,34 @@ The footer features are:
 - Bootstrap 5.3:
    - Bootstrap helped with layout and styling and ensuring that the site is responsive.
 
+
 - Google Fonts:
    - Google Fonts was used for the Josefin Slab font that is used throughout the site, which was copied into the HTML and CSS code.
+
 
 - Font Awesome:
    - Font Awesome was used for the lotus flower icons on the Benefits page, the tree icons on the Extra page and the social media icons which appear on every page of the website.
 
+
 - Balsamiq:
    - Balsamiq was used to create my wireframes for desktop, tablet and mobile devices.
+
 
 - Logomakr:
    - Logomakr was used to design and create the logo which appears on every page of the website.
 
+
 - Git:
    - Git was used for the version control of the website.
+
 
 - Github:
    - Github was used to host the code of the website.
 
+
 - Pexels:
    - Pexels was used for the background image, the gallery images and the testimonial images.
+
 
 
 #Languages Used
@@ -250,7 +258,41 @@ The footer features are:
 - HTML5
 - CSS3
 
+## Testing
 
+# Testing User Stories 
+# User Experience (UX)
+
+First Time User-
+
+<strong>As a First Time User, I would like to find out the purpose of the site and what it is that is being offered. </strong>
+ - Upon entering the site for the first time, the user is presented with a clearly laid out Home Page, which sets out in full description what the purpose of the site is, and what is being offered with locations, dates and times.
+
+<strong>As a First Time User, I would like for the site to be easily accessible with simple navigation. </strong>
+ - The user is presented with a clear navigation bar with the options of Home, Benefits, Gallery and Sign-Up. 
+
+<strong> As a First Time User, I would like to be able to read testimonials so that I know if the site is trustworthy and to find out what other users think. </strong>
+ - The user is presented with two testimonials on the Sign-Up page.
+
+
+Returning User-
+
+<strong>As a Returning User, I would like to be able to contact the group.</strong>
+ - The user is presented with a whole range of different contact methods via four different social media platform links, an address, an email address and a phone number.
+
+<strong>As a Returning User, I would like to be able to sign up to the group.</strong>
+ - The user is presented with a simple Sign-Up form on the Sign-Up page.
+
+<strong>As a Returning User, I would like to be able to access the group across different social media platforms.</strong>
+ - The user is presented with the option of four different social media platform links located in the footer.
+
+Frequent User-
+
+<strong>As a Frequent User, I would like to be able to keep up to date with events the group are running through the social media platforms linked. </strong>
+ - The user has the option of visiting the social media platforms via the links in the footer.
+
+<strong>As a Frequent User, I would like to be able to check if locations, dates and times are changed or updated.</strong>
+ - The user has the option of visting the social media platforms via the links, different contact methods and via receiving automatic emails with updates.
 
 
 
