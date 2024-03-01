@@ -253,15 +253,15 @@ The footer features are:
 
 
 
-#Languages Used
+# Languages Used
 
 - HTML5
 - CSS3
 
-## Testing
+# Testing
 
-# Testing User Stories 
-# User Experience (UX)
+## Testing User Stories 
+### User Experience (UX)
 
 First Time User-
 
@@ -275,6 +275,7 @@ First Time User-
  - The user is presented with two testimonials on the Sign-Up page.
 
 
+
 Returning User-
 
 <strong>As a Returning User, I would like to be able to contact the group.</strong>
@@ -286,13 +287,15 @@ Returning User-
 <strong>As a Returning User, I would like to be able to access the group across different social media platforms.</strong>
  - The user is presented with the option of four different social media platform links located in the footer.
 
+
+
 Frequent User-
 
 <strong>As a Frequent User, I would like to be able to keep up to date with events the group are running through the social media platforms linked. </strong>
  - The user has the option of visiting the social media platforms via the links in the footer.
 
 <strong>As a Frequent User, I would like to be able to check if locations, dates and times are changed or updated.</strong>
- - The user has the option of visting the social media platforms via the links, different contact methods and via receiving automatic emails with updates.
+ - The user has the option of visiting the social media platforms via the links, different contact methods and via receiving automatic emails with updates.
 
 
 
