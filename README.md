@@ -165,7 +165,7 @@ The Home Page features include:
 - A further information section.
 - Three cards which each include an image of the location, along with text for each image with the details such as the name of location, the day and the time.
 
-![Home-Page](/documents/screenshots/home-page.png)
+![Home-Page](/documents/home-page.png)
 
 ## Benefits
 
@@ -174,4 +174,4 @@ The Benefits features include:
 - A quote at the top of the page.
 - A list of health benefits of spending time in nature, with a lotus flower icon next to each list item for added visual effect and warmth. The icon is brown to symbolise the soil and to contrast the green of the body nicely.
 
-![Benefits](/documents/screenshots/benefits.png)
+![Benefits](/documents/benefits.png)
