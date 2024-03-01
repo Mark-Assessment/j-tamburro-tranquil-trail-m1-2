@@ -216,7 +216,7 @@ The footer features are:
 - On the right-hand side - text that says "Email Us" and underneath it, an email address.
 - On the right-hand side - text that says "Phone Us" and underneath it, a phone number. This is displayed under the email address, and is in a smaller font to allow it to be responsive on all devices.
 
-![Footer](/documents/screenshots/footer.png)
+![Footer](/documents/screenshots/footer.PNG)
 
 ##Technologies Used
 
