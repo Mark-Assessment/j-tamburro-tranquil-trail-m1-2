@@ -174,4 +174,4 @@ The Benefits features include:
 - A quote at the top of the page.
 - A list of health benefits of spending time in nature, with a lotus flower icon next to each list item for added visual effect and warmth. The icon is brown to symbolise the soil and to contrast the green of the body nicely.
 
-![Benefits](/documents/benefits.png)
+![Benefits](/documents/screenshots/)
