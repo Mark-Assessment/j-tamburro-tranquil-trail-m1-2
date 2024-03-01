@@ -246,7 +246,6 @@ footer {
 .card-benefits {
     text-align: center;
     margin: 50px;
-    word-break: break-all;
 }
 
 .container.text-center .row.row-cols-2>div>img {
