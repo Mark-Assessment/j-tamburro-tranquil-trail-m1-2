@@ -68,47 +68,53 @@ I have also used:
   
   - Home Page
   
-   ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-HomePage.png)
+   ![Desktop-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-HomePage.png)
 
   - Gallery Page 
   
-  ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-Gallery.png)
+  ![Desktop-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-Gallery.png)
 
   - Sign Up Page
   
-   ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-SignUp.png)
+   ![Desktop-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-SignUp.png)
    
 
   ## Tablet
 
   - Home Page
   
-   ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-HomePage.png)
+   ![Tablet-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-HomePage.png)
 
   - Gallery Page
   
-   ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-Gallery.png)
+   ![Tablet-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-Gallery.png)
 
   - Sign Up Page 
   
-  ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-SignUp.png)
+  ![Tablet-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-SignUp.png)
 
 
   ## Mobile
 
   - Home Page 
   
-  ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-HomePage.png)
+  ![Mobile-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-HomePage.png)
 
   - Gallery Page 
   
-  ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-Gallery.png)
+  ![Mobile-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-Gallery.png)
 
   - Sign Up Page 
   
-  ![Wireframescreenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-SignUp.png)
+  ![Mobile-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-SignUp.png)
 
 # Features
+
+## Background Image
+
+- The background image is of a scenic landscape with a group of walkers. It displays different parts of the photo on each page, with a transparent overlay of a variety of different containers.
+
+![Background-Image](/assets/images/hero-image.jpg)
 
 ## Navbar
 
@@ -130,7 +136,7 @@ The Navbar menu contains:
 
 - **Sign Up** - This is the fourth page, which contains a sign-up form requiring First Name, Last Name and Email Address, along with a selection of four different choices of locations and a submit button. Underneath the sign-up form are two testimonials, each with a picture of the person.
 
-The links include an animated hover effect, which have the font colour of ![Green](https://via.placeholder.com/15/466043/000000?text=+) #466043 and then changes to ![Brown](https://via.placeholder.com/15/A0522D/000000?text=+) #A0522D upon hovering.
+The links include an animated hover effect, which have the font colour of green, and then changes to brown upon hovering.
 
 The Navigation is responsive across all devices.
 
@@ -175,3 +181,42 @@ The Benefits features include:
 - A list of health benefits of spending time in nature, with a lotus flower icon next to each list item for added visual effect and warmth. The icon is brown to symbolise the soil and to contrast the green of the body nicely.
 
 ![Benefits](/documents/screenshots/benefits.png)
+
+## Gallery
+
+The Gallery features include:
+
+- A quote at the top of the page.
+- Six photos of people walking and enjoying being out in nature.
+
+![Gallery](/documents/screenshots/gallery.png)
+
+## Sign-Up
+
+The Sign-Up features include:
+
+- A sign-up form requiring first name, last name and email address, followed by a radio button with four choices and a submit button.
+- Two testimonials, each with a small thumbnail image attached.
+
+![Sign-Up](/documents/screenshots/sign-up.png)
+
+## Extra
+
+The website also has an extra page triggered by the submit button being clicked on the sign-up form.
+
+The features include:
+
+- A simple message to thank the user for signing up and what the next steps are. It also contains two green tree icons with one being at the top and one being at the bottom.
+
+![Extra](/documents/screenshots/sign-up.png)
+
+## Footer
+
+The footer features are:
+
+- On the left-hand side - text that says "Follow Us" and underneath it, four social media icons that link to Facebook, Instagram, YouTube and Twitter.
+- In the centre - text that says "Write to Us" and underneath it, an address.
+- On the right-hand side - text that says "Email Us" and underneath it, an email address.
+- On the right-hand side - text that says "Phone Us" and underneath it, a phone number. This is displayed under the email address, and is in a smaller font to allow it to be responsive on all devices.
+
+![Footer](/documents/screenshots/footer.png)
