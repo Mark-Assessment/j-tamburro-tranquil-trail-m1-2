@@ -130,11 +130,13 @@ The Navbar menu contains:
 
 - **Sign Up** - This is the fourth page, which contains a sign-up form requiring First Name, Last Name and Email Address, along with a selection of four different choices of locations and a submit button. Underneath the sign-up form are two testimonials, each with a picture of the person.
 
-The links include an animated hover effect, which have the font colour of #466043 and then changes to #A0522D upon hovering.
-
-![Navbar](/documents/navbar.png)
+The links include an animated hover effect, which have the font colour of ![Green](https://via.placeholder.com/15/466043/000000?text=+)#466043 and then changes to ![Brown](https://via.placeholder.com/15/A0522D/000000?text=+) #A0522D upon hovering.
 
 The Navigation is responsive across all devices.
+
+-Desktop
+
+![Navbar](/documents/navbar.png)
 
 -Mobile 
 
@@ -159,6 +161,16 @@ On Tablet devices, as seen above, the menu changes position depending on the siz
 
 The Home Page features include:
 
+- A welcome heading.
 - A description of the purpose of the website and what it encompasses.
 - A further information section.
-- Three images of locations, along with a text section for each image with the details such as the name of location, the day and the time.
+- Three cards which each include an image of the location, along with text for each image with the details such as the name of location, the day and the time.
+
+![Home-Page](/documents/screenshots/home%20page.png)
+
+## Benefits
+
+The Benefits features include:
+
+- A quote at the top of the page.
+- A list of health benefits of spending time in nature, with a lotus flower icon next to each list item for added visual effect and warmth. The icon is 
