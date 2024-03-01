@@ -143,6 +143,7 @@ The Navigation is responsive across all devices.
 -Tablet
 
 **iPad**
+
 ![Navbar](/documents/navbar-ipad.png)
 
 **iPad Pro 10.5 inch**
@@ -152,10 +153,12 @@ The Navigation is responsive across all devices.
 ![Navbar](/documents/navbar-ipadpro12.9inch.png)
 
 
-On Tablet devices, as seen above, the menu changes position depending on the size of screen. Please see ![Bugs](/testing/errors/bugs/).
+On Tablet devices, as seen above, the menu changes position depending on the size of screen. Please see ![Bugs].
 
 ## Home Page
 
 The Home Page features include:
 
-- 
+- A description of the purpose of the website and what it encompasses.
+- A further information section.
+- Three images of locations, along with a text section for each image with the details such as the name of location, the day and the time.
