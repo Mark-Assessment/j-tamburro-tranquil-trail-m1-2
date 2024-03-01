@@ -130,7 +130,7 @@ The Navbar menu contains:
 
 - **Sign Up** - This is the fourth page, which contains a sign-up form requiring First Name, Last Name and Email Address, along with a selection of four different choices of locations and a submit button. Underneath the sign-up form are two testimonials, each with a picture of the person.
 
-The links include an animated hover effect, which have the font colour of ![Green](https://via.placeholder.com/15/466043/000000?text=+)#466043 and then changes to ![Brown](https://via.placeholder.com/15/A0522D/000000?text=+) #A0522D upon hovering.
+The links include an animated hover effect, which have the font colour of ![Green](https://via.placeholder.com/15/466043/000000?text=+) #466043 and then changes to ![Brown](https://via.placeholder.com/15/A0522D/000000?text=+) #A0522D upon hovering.
 
 The Navigation is responsive across all devices.
 
@@ -144,14 +144,13 @@ The Navigation is responsive across all devices.
 
 -Tablet
 
-**iPad**
-
+**iPad**:
 ![Navbar](/documents/navbar-ipad.png)
 
-**iPad Pro 10.5 inch**
+**iPad Pro 10.5 inch**:
 ![Navbar](/documents/navbar-ipadpro10.5inch.png)
 
-**iPad Pro 12.9 inch**
+**iPad Pro 12.9 inch**:
 ![Navbar](/documents/navbar-ipadpro12.9inch.png)
 
 
@@ -166,11 +165,13 @@ The Home Page features include:
 - A further information section.
 - Three cards which each include an image of the location, along with text for each image with the details such as the name of location, the day and the time.
 
-![Home-Page](/documents/screenshots/home%20page.png)
+![Home-Page](/documents/screenshots/home-page.png)
 
 ## Benefits
 
 The Benefits features include:
 
 - A quote at the top of the page.
-- A list of health benefits of spending time in nature, with a lotus flower icon next to each list item for added visual effect and warmth. The icon is 
+- A list of health benefits of spending time in nature, with a lotus flower icon next to each list item for added visual effect and warmth. The icon is brown to symbolise the soil and to contrast the green of the body nicely.
+
+![Benefits](/documents/screenshots/benefits.png)
