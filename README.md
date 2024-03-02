@@ -234,7 +234,7 @@ The footer features are:
    - Font Awesome was used for the lotus flower icons on the Benefits page, the tree icons on the Extra page and the social media icons which appear on every page of the website.
 
 
-- Balsamiq:
+- <a href="https://balsamiq.com/?gad_source=1&gclid=EAIaIQobChMIiIukqIrWhAMVf9QWBR36KgPkEAAYAiAAEgKzN_D_BwE">Balsamiq</a>:
    - Balsamiq was used to create my wireframes for desktop, tablet and mobile devices.
 
 
@@ -244,6 +244,9 @@ The footer features are:
 
 - Git:
    - Git was used for the version control of the website.
+
+- <a href="https://www.gitpod.io">GitPod</a>
+   - GitPod was used as a cloud-based IDE, integrated for collaborative development, complementing Git workflows.
 
 
 - <a href="https://github.com">Github</a>:
@@ -267,7 +270,7 @@ Please refer to [TESTING.md](/TESTING.md) for all testing documentation.
 
 ## Git Hub Pages
 
-- This project was deployed to GitHub Pages. The steps to deploy to GitHub Pages are as follows:
+This project was deployed to GitHub Pages. The steps to deploy to GitHub Pages are as follows:
 
 1. Log into GitHub Pages and find the GitHub Repository.
 2. Locate the settings tab at the top of the page and then scroll down the page until you reach the section called Pages, on the left-hand side.
@@ -312,16 +315,16 @@ All images across the site were taken from <a href="https://www.pexels.com">Pexe
 
 The tools used that haven't yet been mentioned are:
 
-- GoFullPage - Full Page Screen Capture
+- <a href="https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl">GoFullPage - Full Page Screen Capture</a>
   -This was used for full-page screenshots of my site.
 
-- Responsive Viewer
+- <a href="https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb">Responsive Viewer</a>
   -This was used to capture different images of how my site displays across different devices.
 
 - <a href="https://ui.dev/amiresponsive">Am I Responsive?</a>
   -This was used for my starting image at the beginning of my README.md, displaying my site across different devices in one image.
 
-- ChatGPT
+- <a href="https://chat.openai.com">ChatGPT</a>
   -This was used for help with understanding various code on a deeper level so that I could utilise it more efficiently, as well as helping me come up with an interesting name for my website.
 
 ### Acknowledgements
