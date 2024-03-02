@@ -303,14 +303,14 @@ Frequent User-
 
 Testing has been completed in a variety of ways:
 
- -Browsers
+ ### Browsers
  
  I have tested the website on three different browers. All three browsers display all pages of the website as it should. Each page of the website looked identical on all three browsers.
   - Google Chrome
   - Microsoft Edge
   - Brave
 
- -Online responsive tools
+ ### Online responsive tools
 
  I have used online responsive tools to show what my website looks like on a range of different devices. Below is a screenshot which shows my website as it would be seen on the following devices:
   - iPhone XS, X 375x812
@@ -318,8 +318,24 @@ Testing has been completed in a variety of ways:
   - Galaxy S9, Note 8, S8 360x740
   - Medium Screen 1024x800
 
-[Responsive-Home](/documents/screenshots/reponsivetoolhome.png)
-[Responsive-Benefits](/documents/screenshots/responsivetoolbenefits.png)
-[Responsive-Gallery](/documents/screenshots/responsivetoolgallery.png)
-[Responsive-SignUp](/documents/screenshots/responsivetoolsignup.png)
-[Responsive-Extra](/documents/screenshots/responsivetoolextra.png)
+![Responsive-Home](/documents/screenshots/reponsivetoolhome.png)
+![Responsive-Benefits](/documents/screenshots/responsivetoolbenefits.png)
+![Responsive-Gallery](/documents/screenshots/responsivetoolgallery.png)
+![Responsive-SignUp](/documents/screenshots/responsivetoolsignup.png)
+![Responsive-Extra](/documents/screenshots/responsivetoolextra.png)
+
+### Online Validation Sites
+
+I have tested my website by running all pages of my HTML and my CSS code through the following online validation sites:
+
+- The W3C MarkUp Validation Service
+- The W3C CSS Validation Service - Jigsaw
+
+**The W3C MarkUp Validation Service**
+
+The W3C MarkUp Validation Service did find errors in my HTML code. These errors are documented in the below screenshots: 
+
+- Home Page:
+
+[Home-Page-Error](/testing/errors/HTML%20error.png)
+
