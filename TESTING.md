@@ -198,7 +198,7 @@ I also ran my website through WAVE to find out how accessible it is for those th
 
 This showed me that my website is accessible and fairly easy for visually-impaired users to navigate.
 
-#Bugs
+# Bugs
 
 I encountered three bugs regarding responsiveness. These are detailed in the screenshots below:
 
@@ -219,6 +219,8 @@ iPad Pro 10.5inch:
 
 ![Bug-Tablet1](/testing/errors/bugs/navbar-ipadpro10.5inch.png)
 
-# Deployment
+# Mistakes
+
+- I made the mistake early on in my project of using lowercase letters when using git commands. This was something I very quickly learnt not to do and since then have ensured that all other git commands are written beginning with a capital letter.
 
 
