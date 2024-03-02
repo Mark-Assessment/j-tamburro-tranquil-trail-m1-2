@@ -152,6 +152,7 @@ The Navigation is responsive across all devices.
 ![Navbar-Tablet1](/documents/screenshots/navbar-ipadpro12.9inch.png)
 
 **iPad**:
+
 ![Navbar-Tablet2](/testing/errors/bugs/navbar-ipad.png)
 
 **iPad Pro 10.5 inch**:
