@@ -1,6 +1,6 @@
  # Tranquil-Trail Wellness
 
-You can visit the live site [here]( https://jtam90.github.io/Tranquil-Trail-Wellness/).
+You can visit the live site [here](https://jtam90.github.io/Tranquil-Trail-Wellness).
 
 For my Milestone Project 1 in L5 Web Application Development, I have designed and created a website called Tranquil-Trail Wellness. This website has been created with the intention of a social walking group being immersed in nature for the purpose of focusing on health and wellbeing, as well as making new connections with like-minded people. This website has been developed in such a way that it should be easy for users to navigate, as well as being fully accessible and responsive, covering a range of different devices.
 
@@ -57,7 +57,7 @@ I have also used:
 
   ## Typography
 
-  I have used the font "Josefin Slab" as the main font throughout the site, with a fall back font of "serif" for easy readability. I have chosen this font because it's soft, and blends with the nature theme well. I have used <a href="https://fonts.google.com">Google Fonts</a> for this.
+  I have used the font "Josefin Slab" as the main font throughout the site, with a fall back font of "serif" for easy readability. I have chosen this font because it's soft, and blends with the nature theme well. I have used <a href="https://fonts.google.com" target="_blank">Google Fonts</a> for this.
   ![Font Screenshot](/documents/screenshots/fontexample.png)
 
   ## Imagery
@@ -72,45 +72,45 @@ I have also used:
   
   - Home Page
   
-   ![Desktop-Screenshot-Home](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-HomePage.png)
+   ![Desktop-Screenshot-Home](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/desktop-homepage.png)
 
   - Gallery Page 
   
-  ![Desktop-Screenshot-Gallery](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-Gallery.png)
+  ![Desktop-Screenshot-Gallery](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/desktop-gallery.png)
 
   - Sign Up Page
   
-   ![Desktop-Screenshot-SignUp](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-SignUp.png)
+   ![Desktop-Screenshot-SignUp](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/desktop-signup.png)
    
 
   ## Tablet
 
   - Home Page
   
-   ![Tablet-Screenshot-Home](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-HomePage.png)
+   ![Tablet-Screenshot-Home](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/tablet-homepage.png)
 
   - Gallery Page
   
-   ![Tablet-Screenshot-Gallery](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-Gallery.png)
+   ![Tablet-Screenshot-Gallery](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/tablet-gallery.png)
 
   - Sign Up Page 
   
-  ![Tablet-Screenshot-SignUp](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-SignUp.png)
+  ![Tablet-Screenshot-SignUp](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/tablet-signup.png)
 
 
   ## Mobile
 
   - Home Page 
   
-  ![Mobile-Screenshot-Home](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-HomePage.png)
+  ![Mobile-Screenshot-Home](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/mobile-homepage.png)
 
   - Gallery Page 
   
-  ![Mobile-Screenshot-Gallery](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-Gallery.png)
+  ![Mobile-Screenshot-Gallery](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/mobile-gallery.png)
 
   - Sign Up Page 
   
-  ![Mobile-Screenshot-SignUp](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-SignUp.png)
+  ![Mobile-Screenshot-SignUp](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/mobile-signup.png)
 
 # Features
 
@@ -221,38 +221,38 @@ The footer features are:
 
 ## Technologies Used
 
-- <a href="https://getbootstrap.com">Bootstrap 5.3</a>:
+- <a href="https://getbootstrap.com" target="_blank">Bootstrap 5.3</a>:
    - Bootstrap helped with layout and styling and ensuring that the site is responsive.
 
 
-- <a href="https://fonts.google.com/">Google Fonts</a>:
+- <a href="https://fonts.google.com" target="_blank">Google Fonts</a>:
    - Google Fonts was used for the Josefin Slab font that is used throughout the site, which was copied into the HTML and CSS code.
 
 
-- <a href="https://fontawesome.com">Font Awesome</a>:
+- <a href="https://fontawesome.com" target="_blank">Font Awesome</a>:
    - Font Awesome was used for the lotus flower icons on the Benefits page, the tree icons on the Extra page and the social media icons which appear on every page of the website.
 
 
-- <a href="https://balsamiq.com/?gad_source=1&gclid=EAIaIQobChMIiIukqIrWhAMVf9QWBR36KgPkEAAYAiAAEgKzN_D_BwE">Balsamiq</a>:
+- <a href="https://balsamiq.com/?gad_source=1&gclid=EAIaIQobChMIiIukqIrWhAMVf9QWBR36KgPkEAAYAiAAEgKzN_D_BwE" target="_blank">Balsamiq</a>:
    - Balsamiq was used to create my wireframes for desktop, tablet and mobile devices.
 
 
-- <a href="https://logomakr.com">Logomakr</a>:
+- <a href="https://logomakr.com" target="_blank">Logomakr</a>:
    - Logomakr was used to design and create the logo which appears on every page of the website.
 
 
 - Git:
    - Git was used for the version control of the website.
 
-- <a href="https://www.gitpod.io">GitPod</a>
+- <a href="https://www.gitpod.io" target="_blank">GitPod</a>
    - GitPod was used as a cloud-based IDE, integrated for collaborative development, complementing Git workflows.
 
 
-- <a href="https://github.com">Github</a>:
+- <a href="https://github.com" target="_blank">Github</a>:
    - Github was used to host the code of the website.
 
 
-- <a href="www.pexels.com">Pexels</a>:
+- <a href="www.pexels.com" target="_blank">Pexels</a>:
    - Pexels was used for the background image, the gallery images and the testimonial images.
 
 
@@ -275,7 +275,7 @@ This project was deployed to GitHub Pages. The steps to deploy to GitHub Pages a
 2. Locate the settings tab at the top of the page and then scroll down the page until you reach the section called Pages, on the left-hand side.
 3. Find "Source" and then click on the dropdown menu and select "Main" and save it.
 4. The page will automatically refresh.
-5. Locate the published live <a href="https://jtam90.github.io/Tranquil-Trail-Wellness/">link.</a>
+5. Locate the published live <a href="https://jtam90.github.io/Tranquil-Trail-Wellness" target="_blank">link.</a>
 
 ## Forking
 
@@ -299,11 +299,11 @@ You can do this by typing the following into your terminal:
 
 ## Content
 
-- For my navbar hover effect, I gained inspiration through a tutorial by Kevin Powell on his YouTube channel. The link to that specific tutorial is <a href="https://www.youtube.com/watch?v=FEmysQARWFU&list=PL4-IK0AVhVjPxtv9SVKQZm_huHpDEgLz0">here</a>. I have also given credit to this tutorial through comments directly in my CSS above my navbar code.
+- For my navbar hover effect, I gained inspiration through a tutorial by Kevin Powell on his YouTube channel. The link to that specific tutorial is <a href="https://www.youtube.com/watch?v=FEmysQARWFU&list=PL4-IK0AVhVjPxtv9SVKQZm_huHpDEgLz0" target="_blank">here</a>. I have also given credit to this tutorial through comments directly in my CSS above my navbar code.
 
 ## Media
 
-All images across the site were taken from <a href="https://www.pexels.com">Pexels</a>. These were used for:
+All images across the site were taken from <a href="https://www.pexels.com" target="_blank">Pexels</a>. These were used for:
 
 - The background image
 - The gallery images
@@ -314,23 +314,23 @@ All images across the site were taken from <a href="https://www.pexels.com">Pexe
 
 The tools used that haven't yet been mentioned are:
 
-- <a href="https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl">GoFullPage - Full Page Screen Capture</a>
+- <a href="https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl" target="_blank">GoFullPage - Full Page Screen Capture</a>
   -This was used for full-page screenshots of my site.
 
-- <a href="https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb">Responsive Viewer</a>
+- <a href="https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb" target="_blank">Responsive Viewer</a>
   -This was used to capture different images of how my site displays across different devices.
 
-- <a href="https://ui.dev/amiresponsive">Am I Responsive?</a>
+- <a href="https://ui.dev/amiresponsive" target="_blank">Am I Responsive?</a>
   -This was used for my starting image at the beginning of my README.md, displaying my site across different devices in one image.
 
-- <a href="https://chat.openai.com">ChatGPT</a>
+- <a href="https://chat.openai.com" target="_blank">ChatGPT</a>
   -This was used for help with understanding various code on a deeper level so that I could utilise it more efficiently, as well as helping me come up with an interesting name for my website.
 
 ### Acknowledgements
 
-- <a href="https://github.com/IuliiaKonovalova">Julia Konovalova</a> - my mentor who has offered amazing help, support and advice and also introduced me to the wonder that is Kevin Powell.
-- <a href="https://github.com/TravelTimN">Tim Nelson</a> - My original mentor who gave me insightful advice and support in the very early days of beginning my diploma, that I have carried with me.
-- <a href="https://github.com/RachelFurlong-dev">Rachel Furlong</a> my tutor and cohort leader who has been a wonderful fountain of knowledge and information, offering reassurance and encouragement when needed.
+- <a href="https://github.com/IuliiaKonovalova" target="_blank">Julia Konovalova</a> - my mentor who has offered amazing help, support and advice and also introduced me to the wonder that is Kevin Powell.
+- <a href="https://github.com/TravelTimN" target="_blank">Tim Nelson</a> - My original mentor who gave me insightful advice and support in the very early days of beginning my diploma, that I have carried with me.
+- <a href="https://github.com/RachelFurlong-dev" target="_blank">Rachel Furlong</a> my tutor and cohort leader who has been a wonderful fountain of knowledge and information, offering reassurance and encouragement when needed.
 - My friends and family who have not only tested my site and given me honest feedback, but also kept me sane in the process.
 - The Code Institute tutors and Slack community for help and advice.
-- <a href="https://www.youtube.com/@KevinPowell">Kevin Powell</a> for helping me understand CSS at a deeper level and learn new code and methods at the same time.
+- <a href="https://www.youtube.com/@KevinPowell" target="_blank">Kevin Powell</a> for helping me understand CSS at a deeper level and learn new code and methods at the same time.

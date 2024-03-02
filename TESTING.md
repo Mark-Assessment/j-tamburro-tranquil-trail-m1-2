@@ -28,7 +28,6 @@ Returning User-
  - The user is presented with the option of four different social media platform links located in the footer.
 
 
-
 Frequent User-
 
 **As a Frequent User, I would like to be able to keep up to date with events the group are running through the social media platforms linked.**
@@ -105,88 +104,88 @@ The W3C MarkUp Validation Service found errors in my HTML code. These errors are
 
 - Home Page:
 
-[Home-Page-Error1](/testing/errors/HTML%20error.png)
+[Home-Page-Error1](/testing/errors/html-error.png)
 
-[Home-Page-Error2](/testing/errors/HTML%20error%201.png)
+[Home-Page-Error2](/testing/errors/html-error-1.png)
 
-[Home-Page-Error3](/testing/errors/HTML%20error%201.0.png)
+[Home-Page-Error3](/testing/errors/html-error-1.0.png)
 
 - Benefits Page:
 
-[Benefits-Page-Error1](/testing/errors/benefits.html%20errors.png)
+[Benefits-Page-Error1](/testing/errors/benefits.html-errors.png)
 
-[Benefits-Page-Error2](/testing/errors/benefits.html%20errors%201.png)
+[Benefits-Page-Error2](/testing/errors/benefits.html-errors-1.png)
 
-[Benefits-Page-Error3](/testing/errors/benefits.html%20errors%201.0.png)
+[Benefits-Page-Error3](/testing/errors/benefits.html-errors-1.0.png)
 
-[Benefits-Page-Error4](/testing/errors/benefits.html%20errors%201.1.png)
+[Benefits-Page-Error4](/testing/errors/benefits.html-errors-1.1.png)
 
-[Benefits-Page-Error5](/testing/errors/benefits.html%20errors%201.2.png)
+[Benefits-Page-Error5](/testing/errors/benefits.html-errors-1.2.png)
 
-[Benefits-Page-Error6](/testing/errors/benefits.html%20errors%201.3.png)
+[Benefits-Page-Error6](/testing/errors/benefits.html-errors-1.3.png)
 
-[Benefits-Page-Error7](/testing/errors/benefits.html%20errors%201.4.png)
+[Benefits-Page-Error7](/testing/errors/benefits.html-errors-1.4.png)
 
-[Benefits-Page-Error8](/testing/errors/benefits.html%20errors%201.5.png)
+[Benefits-Page-Error8](/testing/errors/benefits.html-errors-1.5.png)
 
-[Benefits-Page-Error9](/testing/errors/benefits.html%20errors%201.6.png)
+[Benefits-Page-Error9](/testing/errors/benefits.html-errors-1.6.png)
 
-[Benefits-Page-Error10](/testing/errors/benefits.html%20errors%201.7.png)
+[Benefits-Page-Error10](/testing/errors/benefits.html-errors-1.7.png)
 
 - Gallery Page:
 
-[Gallery-Page-Error](/testing/errors/gallery.html%20errors.png)
+[Gallery-Page-Error](/testing/errors/gallery.html-errors.png)
 
 - Sign-Up Page:
 
-[Sign-Up-Page1](/testing/errors/signup.html%20errors.png)
+[Sign-Up-Page1](/testing/errors/signup.html-errors.png)
 
-[Sign-Up-Page2](/testing/errors/signup.html%20errors%201.png)
+[Sign-Up-Page2](/testing/errors/signup.html-errors-1.png)
 
-[Sign-Up-Page3](/testing/errors/signup.html%20errors%201.1.png)
+[Sign-Up-Page3](/testing/errors/signup.html-errors-1.1.png)
 
 - Extra Page:
 
-[Extra-Page](/testing/errors/extra.html%20error.png)
+[Extra-Page](/testing/errors/extra.html-error.png)
 
 
 I fixed these errors and then ran each page through the validator again, which produced the following results:
 
 - Home Page:
 
-![Home-Page-Fixed](/testing/errors/index.html%20error%20complete.png)
+![Home-Page-Fixed](/testing/errors/index.html-error-complete.png)
 
 - Benefits Page:
 
-![Benefits-Page-Fixed](/testing/errors/benefits.html%20error%20complete.png)
+![Benefits-Page-Fixed](/testing/errors/benefits.html-error-complete.png)
 
 - Gallery Page:
 
-![Gallery-Page-Fixed](/testing/errors/gallery.html%20error%20complete.png)
+![Gallery-Page-Fixed](/testing/errors/gallery.html-error-complete.png)
 
 - Sign-Up Page:
 
-![Sign-Up-Page-Fixed](/testing/errors/signup.html%20error%20complete.png)
+![Sign-Up-Page-Fixed](/testing/errors/signup.html-error-complete.png)
 
 - Extra Page:
 
-![Extra-Page-Fixed](/testing/errors/extra.html%20error%20complete.png)
+![Extra-Page-Fixed](/testing/errors/extra.html-error-complete.png)
 
 This showed that my errors were fixed and there were no further errors in my code.
 
 I will refer to the below screenshot, that does raise a query but isn't classed as an error. I tried all different ways of changing the wording, but it didn't change the message I received. This was tagged onto the images that are in the screenshots above.
 
-![Image-Report](/testing/errors/image%20report.png)
+![Image-Report](/testing/errors/image-report.png)
 
 **The W3C CSS Validation Service - Jigsaw**
 
 The W3C CSS Validation Service - Jigsaw found two errors in my CSS code. These errors are documented in the below screenshot:
 
-![CSS-Error](/testing/errors/w3c%20css%20jigsaw%20validator%20results.png)
+![CSS-Error](/testing/errors/w3c-css-jigsaw-validator-results.png)
 
 I fixed these two errors and then ran my CSS code through the validator again, which produced the following result:
 
-![CSS-Fixed](/testing/errors/w3c%20css%20jigsaw%20validator%20results%20updated.png)
+![CSS-Fixed](/testing/errors/w3c-css-jigsaw-validator-results-updated.png)
 
 # Performance Results
 
@@ -196,21 +195,21 @@ I ran my site through both Lighthouse and Google Page-Speed Services and got the
 
 - Desktop
 
-![Lighthouse-Desktop](/testing/errors/Desktop%20performance%20lighthouse.png)
+![Lighthouse-Desktop](/testing/errors/desktop-performance-lighthouse.png)
 
 - Mobile
 
-![Lighthouse-Mobile](/testing/errors/Mobile%20performance%20lighthouse.png)
+![Lighthouse-Mobile](/testing/errors/mobile-performance-lighthouse.png)
 
 ## Google Page-Speed Services
 
 - Desktop
 
-![Google-Desktop](/testing/errors/Desktop%20performance.png)
+![Google-Desktop](/testing/errors/desktop-performance.png)
 
 - Mobile
 
-![Google-Mobile](/testing/errors/Mobile%20performance.png)
+![Google-Mobile](/testing/errors/mobile-performance.png)
 
 This showed me that my website is running well and that it meets expected standards for mobile and desktop.
 
@@ -218,8 +217,8 @@ This showed me that my website is running well and that it meets expected standa
 
 I also ran my website through WAVE to find out how accessible it is for those that are visually-impaired. The results are below:
 
-![WAVE1](/testing/errors/Wave%20results.png)
-![WAVE2](/testing/errors/Wave%20results1.png)
+![WAVE1](/testing/errors/wave-results.png)
+![WAVE2](/testing/errors/wave-results1.png)
 
 This showed me that my website is accessible and fairly easy for visually-impaired users to navigate.
 
