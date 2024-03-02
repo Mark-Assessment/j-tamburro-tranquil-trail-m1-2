@@ -305,7 +305,7 @@ Testing has been completed in a variety of ways:
 
  ### Browsers
  
- I have tested the website on three different browers. All three browsers display all pages of the website as it should. Each page of the website looked identical on all three browsers.
+ I have tested the website on three different browers. All three browsers display all pages of the website as it should. Each page of the website looks identical on all three browsers. The submit button works and all internal and external link also work.
   - Google Chrome
   - Microsoft Edge
   - Brave
@@ -349,19 +349,21 @@ The W3C MarkUp Validation Service found errors in my HTML code. These errors are
 
 [Benefits-Page-Error2](/testing/errors/benefits.html%20errors%201.png)
 
-[Benefits-Page-Error3](/testing/errors/benefits.html%20errors%201.1.png)
+[Benefits-Page-Error3](/testing/errors/benefits.html%20errors%201.0.png)
 
-[Benefits-Page-Error4](/testing/errors/benefits.html%20errors%201.2.png)
+[Benefits-Page-Error4](/testing/errors/benefits.html%20errors%201.1.png)
 
-[Benefits-Page-Error5](/testing/errors/benefits.html%20errors%201.3.png)
+[Benefits-Page-Error5](/testing/errors/benefits.html%20errors%201.2.png)
 
-[Benefits-Page-Error6](/testing/errors/benefits.html%20errors%201.4.png)
+[Benefits-Page-Error6](/testing/errors/benefits.html%20errors%201.3.png)
 
-[Benefits-Page-Error7](/testing/errors/benefits.html%20errors%201.5.png)
+[Benefits-Page-Error7](/testing/errors/benefits.html%20errors%201.4.png)
 
-[Benefits-Page-Error8](/testing/errors/benefits.html%20errors%201.6.png)
+[Benefits-Page-Error8](/testing/errors/benefits.html%20errors%201.5.png)
 
-[Benefits-Page-Error9](/testing/errors/benefits.html%20errors%201.7.png)
+[Benefits-Page-Error9](/testing/errors/benefits.html%20errors%201.6.png)
+
+[Benefits-Page-Error10](/testing/errors/benefits.html%20errors%201.7.png)
 
 - Gallery Page:
 
