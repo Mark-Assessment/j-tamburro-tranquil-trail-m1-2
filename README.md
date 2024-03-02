@@ -148,16 +148,17 @@ The Navigation is responsive across all devices.
 -Tablet
 
 **iPad**:
-![Navbar](/documents/navbar-ipad.png)
+![Navbar](/documents/screenshots/navbar-ipad.png)
 
 **iPad Pro 10.5 inch**:
-![Navbar](/documents/navbar-ipadpro10.5inch.png)
+![Navbar](/documents/screenshots/navbar-ipadpro10.5inch.png)
 
 **iPad Pro 12.9 inch**:
-![Navbar](/documents/navbar-ipadpro12.9inch.png)
+![Navbar](/documents/screenshots/navbar-ipadpro12.9inch.png)
 
 
-On Tablet devices, as seen above, the menu changes position depending on the size of screen. Please see ![Bugs](/testing/errors/bugs/)
+On Tablet devices, as seen above, the menu changes position depending on the size of screen. Please see 
+![Bugs](/document/testing/errors/bugs)
 
 ## Home Page
 
@@ -302,14 +303,14 @@ Frequent User-
 
 Testing has been completed in a variety of ways:
 
- - Browsers
+ -Browsers
  
  I have tested the website on three different browers. All three browsers display all pages of the website as it should. Each page of the website looked identical on all three browsers.
   - Google Chrome
   - Microsoft Edge
   - Brave
 
- - Online responsive tools
+ -Online responsive tools
 
  I have used online responsive tools to show what my website looks like on a range of different devices. Below is a screenshot which shows my website as it would be seen on the following devices:
   - iPhone XS, X 375x812
