@@ -44,7 +44,7 @@ Testing has been completed in a variety of ways:
 
  ### Browsers
  
- I have tested the website on three different browers. All three browsers display all pages of the website as it should. Each page of the website looks identical on all three browsers. The submit button works and all internal and externals link also work. 
+ I have tested the website on three different browers. All three browsers display all pages of the website as it should. Each page of the website looks identical on all three browsers. The submit button works and all internal and external links also work. 
   - Google Chrome
   - Microsoft Edge
   - Brave
@@ -228,13 +228,13 @@ This showed me that my website is accessible and fairly easy for visually-impair
 I encountered three bugs regarding responsiveness. These are detailed in the screenshots below:
 
 - iPhone XR
- - I became aware of this issue when testing the website on my iPhone XR. The site worked well, except for this issue, regarding text and spacing. It has become apparent through user feedback that this is a small issue on most mobile devices. I tried changing/adding/removing various bits of code to try and fix this to get it to work but found that I couldn't get it to work. This only applies to the **Benefits** page of my website.
+   -I became aware of this issue when testing the website on my iPhone XR. The site worked well, except for this issue, regarding text and spacing. It has become apparent through user feedback that this is a small issue on most mobile devices. I tried changing/adding/removing various bits of code to try and fix this to get it to work but found that unfortunately I couldn't. This only applies to the **Benefits** page of my website.
 
 ![Bug-Mobile](/testing/errors/bugs/iphone-xr-benefitspage.png)
 
 
 - iPad
- - The navigation bar does not display in a visually-appealing way on some tablet devices. I also tried to fix this, but couldn't get it to work.
+  -The navigation bar does not display in a visually-appealing way on some tablet devices. I also tried to fix this, but couldn't get it to work.
 
 iPad:
 
