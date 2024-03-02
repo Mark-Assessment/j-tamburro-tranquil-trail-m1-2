@@ -412,4 +412,37 @@ I fixed these two errors and then ran my CSS code through the validator again, w
 
 ![CSS-Fixed](/testing/errors/w3c%20css%20jigsaw%20validator%20results%20updated.png)
 
+## Performance Results
 
+I ran my site through both Lighthouse and Google Page-Speed Services and got the following results for both desktop and mobile devices:
+
+# Lighthouse
+
+- Desktop
+
+![Lighthouse-Desktop](/testing/errors/Desktop%20performance%20lighthouse.png)
+
+- Mobile
+
+![Lighthouse-Mobile](/testing/errors/Mobile%20performance%20lighthouse.png)
+
+# Google Page-Speed Services
+
+- Desktop
+
+![Google-Desktop](/testing/errors/Desktop%20performance.png)
+
+- Mobile
+
+![Google-Mobile](/testing/errors/Mobile%20performance.png)
+
+This showed me that my website is running well and that it meets expected standards for mobile and desktop.
+
+## WAVE - Web Accessibility Evaluation Tools
+
+I also ran my website through WAVE to find out how accessible it is for those that are visually-impaired. The results are below:
+
+![WAVE1](/testing/errors/Wave%20results.png)
+![WAVE2](/testing/errors/Wave%20results1.png)
+
+This showed me that my website is accessible and fairly easy for visually-impaired users to navigate.
