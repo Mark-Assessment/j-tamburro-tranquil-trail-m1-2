@@ -338,19 +338,29 @@ The W3C MarkUp Validation Service found errors in my HTML code. These errors are
 - Home Page:
 
 [Home-Page-Error1](/testing/errors/HTML%20error.png)
+
 [Home-Page-Error2](/testing/errors/HTML%20error%201.png)
+
 [Home-Page-Error3](/testing/errors/HTML%20error%201.0.png)
 
 - Benefits Page:
 
 [Benefits-Page-Error1](/testing/errors/benefits.html%20errors.png)
+
 [Benefits-Page-Error2](/testing/errors/benefits.html%20errors%201.png)
+
 [Benefits-Page-Error3](/testing/errors/benefits.html%20errors%201.1.png)
+
 [Benefits-Page-Error4](/testing/errors/benefits.html%20errors%201.2.png)
+
 [Benefits-Page-Error5](/testing/errors/benefits.html%20errors%201.3.png)
+
 [Benefits-Page-Error6](/testing/errors/benefits.html%20errors%201.4.png)
+
 [Benefits-Page-Error7](/testing/errors/benefits.html%20errors%201.5.png)
+
 [Benefits-Page-Error8](/testing/errors/benefits.html%20errors%201.6.png)
+
 [Benefits-Page-Error9](/testing/errors/benefits.html%20errors%201.7.png)
 
 - Gallery Page:
@@ -360,7 +370,9 @@ The W3C MarkUp Validation Service found errors in my HTML code. These errors are
 - Sign-Up Page:
 
 [Sign-Up-Page1](/testing/errors/signup.html%20errors.png)
+
 [Sign-Up-Page2](/testing/errors/signup.html%20errors%201.png)
+
 [Sign-Up-Page3](/testing/errors/signup.html%20errors%201.1.png)
 
 - Extra Page:
