@@ -49,7 +49,8 @@ Testing has been completed in a variety of ways:
   - Microsoft Edge
   - Brave
 
-  - Google Chrome
+
+  **Google Chrome**
 
   ![Chrome-Home](/documents/browsers/chromehome.png)
   ![Chrome-Benefits](/documents/browsers/chromebenefits.png)
@@ -57,7 +58,7 @@ Testing has been completed in a variety of ways:
   ![Chrome-SignUp](/documents/browsers/chromesignup.png)
   ![Chome-Extra](/documents/browsers/chromeextra.png)
 
-  - Microsoft Edge
+  **Microsoft Edge**
 
   ![Edge-Home](/documents/browsers/edgehome.png)
   ![Edge-Benefits](/documents/browsers/edgebenefits.png)
@@ -65,7 +66,7 @@ Testing has been completed in a variety of ways:
   ![Edge-SignUp](/documents/browsers/edgesignup.png)
   ![Edge-Extra](/documents/browsers/edgeextra.png)
 
-  - Brave
+  **Brave**
 
   ![Brave-Home](/documents/browsers/bravehome.png)
   ![Brave-Benefits](/documents/browsers/bravebenefits.png)
@@ -227,7 +228,7 @@ This showed me that my website is accessible and fairly easy for visually-impair
 I encountered three bugs regarding responsiveness. These are detailed in the screenshots below:
 
 - iPhone XR
- - I became aware of this issue when testing the website on my iPhone XR. The site worked well, except for this issue. It has become apparent through user feedback that this is a small issue on most mobile devices. I tried changing/adding/removing various bits of code to try and fix this to get it to work but found that I couldn't get it to work. This only applies to the **Benefits** page of my website.
+ - I became aware of this issue when testing the website on my iPhone XR. The site worked well, except for this issue, regarding text and spacing. It has become apparent through user feedback that this is a small issue on most mobile devices. I tried changing/adding/removing various bits of code to try and fix this to get it to work but found that I couldn't get it to work. This only applies to the **Benefits** page of my website.
 
 ![Bug-Mobile](/testing/errors/bugs/iphone-xr-benefitspage.png)
 
