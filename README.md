@@ -1,14 +1,15 @@
- # <center> Tranquil-Trail Wellness </center>
+ # Tranquil-Trail Wellness
 
 You can visit the live site [here]( https://jtam90.github.io/Tranquil-Trail-Wellness/).
 
 For my Milestone Project 1 in L5 Web Application Development, I have designed and created a website called Tranquil-Trail Wellness. This website has been created with the intention of a social walking group being immersed in nature for the purpose of focusing on health and wellbeing, as well as making new connections with like-minded people. This website has been developed in such a way that it should be easy for users to navigate, as well as being fully accessible and responsive, covering a range of different devices.
 
 
-![ResponsiveView](/documents/responsive.png)
+![Responsive-View](/documents/responsive.png)
 
 ## User Experience - UX
 ### User Stories
+
 First Time User- 
 
 - As a First Time User, I would like to find out the purpose of the site and what it is that is being offered.
@@ -71,45 +72,45 @@ I have also used:
   
   - Home Page
   
-   ![Desktop-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-HomePage.png)
+   ![Desktop-Screenshot-Home](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-HomePage.png)
 
   - Gallery Page 
   
-  ![Desktop-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-Gallery.png)
+  ![Desktop-Screenshot-Gallery](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-Gallery.png)
 
   - Sign Up Page
   
-   ![Desktop-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-SignUp.png)
+   ![Desktop-Screenshot-SignUp](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Desktop-SignUp.png)
    
 
   ## Tablet
 
   - Home Page
   
-   ![Tablet-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-HomePage.png)
+   ![Tablet-Screenshot-Home](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-HomePage.png)
 
   - Gallery Page
   
-   ![Tablet-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-Gallery.png)
+   ![Tablet-Screenshot-Gallery](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-Gallery.png)
 
   - Sign Up Page 
   
-  ![Tablet-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-SignUp.png)
+  ![Tablet-Screenshot-SignUp](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Tablet-SignUp.png)
 
 
   ## Mobile
 
   - Home Page 
   
-  ![Mobile-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-HomePage.png)
+  ![Mobile-Screenshot-Home](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-HomePage.png)
 
   - Gallery Page 
   
-  ![Mobile-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-Gallery.png)
+  ![Mobile-Screenshot-Gallery](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-Gallery.png)
 
   - Sign Up Page 
   
-  ![Mobile-Screenshot](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-SignUp.png)
+  ![Mobile-Screenshot-SignUp](https://github.com/jtam90/Tranquil-Trail-Wellness/blob/main/documents/Mobile-SignUp.png)
 
 # Features
 
@@ -139,26 +140,26 @@ The Navigation is responsive across all devices.
 
 -Desktop
 
-![Navbar](/documents/navbar.png)
+![Navbar-Desktop](/documents/navbar.png)
 
 -Mobile 
 
-![Navbar](/documents/navbar-mobile.png)
+![Navbar-Mobile](/documents/navbar-mobile.png)
 
 -Tablet
 
+**iPad Pro 12.9 inch**:
+![Navbar-Tablet1](/documents/screenshots/navbar-ipadpro12.9inch.png)
+
 **iPad**:
-![Navbar](/documents/screenshots/navbar-ipad.png)
+![Navbar-Tablet2](/testing/errors/bugs/navbar-ipad.png)
 
 **iPad Pro 10.5 inch**:
-![Navbar](/documents/screenshots/navbar-ipadpro10.5inch.png)
-
-**iPad Pro 12.9 inch**:
-![Navbar](/documents/screenshots/navbar-ipadpro12.9inch.png)
+![Navbar-Tablet3](/testing/errors/bugs/navbar-ipadpro10.5inch.png)
 
 
 On Tablet devices, as seen above, the menu changes position depending on the size of screen. Please see 
-![Bugs](/document/testing/errors/bugs)
+[Bugs](/document/testing/errors/bugs)
 
 ## Home Page
 
@@ -448,3 +449,25 @@ I also ran my website through WAVE to find out how accessible it is for those th
 ![WAVE2](/testing/errors/Wave%20results1.png)
 
 This showed me that my website is accessible and fairly easy for visually-impaired users to navigate.
+
+#Bugs
+
+I encountered three bugs regarding responsiveness and couldn't get it to work properly. These are detailed in the screenshots below:
+
+- iPhone XR
+I became aware of this issue when testing the website on my iPhone XR. The site worked well, except for this issue. It has become apparent that this is a small issue on most mobile devices. I tried changing/adding/removing various bits of code to try and fix this to get it to work but found that I couldn't get it to work. 
+
+![Bug-Mobile](/testing/errors/bugs/iphone-xr-benefitspage.png)
+
+
+- iPad
+The navigation bar does not display in a visually-appealing away on some tablet devices. I also tried to fix this, but couldn't get it to work.
+
+iPad:
+
+![Bug-Tablet](/testing/errors/bugs/navbar-ipad.png)
+
+iPad Pro 10.5inch:
+
+![Bug-Tablet1](/testing/errors/bugs/navbar-ipadpro10.5inch.png)
+
