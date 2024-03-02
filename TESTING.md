@@ -5,36 +5,36 @@
 
 First Time User-
 
-<strong>As a First Time User, I would like to find out the purpose of the site and what it is that is being offered. </strong>
+**As a First Time User, I would like to find out the purpose of the site and what it is that is being offered.**
  - Upon entering the site for the first time, the user is presented with a clearly laid out Home Page, which sets out in full description what the purpose of the site is, and what is being offered with locations, dates and times.
 
-<strong>As a First Time User, I would like for the site to be easily accessible with simple navigation. </strong>
+**As a First Time User, I would like for the site to be easily accessible with simple navigation.**
  - The user is presented with a clear navigation bar with the options of Home, Benefits, Gallery and Sign-Up. 
 
-<strong> As a First Time User, I would like to be able to read testimonials so that I know if the site is trustworthy and to find out what other users think. </strong>
+**As a First Time User, I would like to be able to read testimonials so that I know if the site is trustworthy and to find out what other users think.**
  - The user is presented with two testimonials on the Sign-Up page.
 
 
 
 Returning User-
 
-<strong>As a Returning User, I would like to be able to contact the group.</strong>
+**As a Returning User, I would like to be able to contact the group.**
  - The user is presented with a whole range of different contact methods via four different social media platform links, an address, an email address and a phone number.
 
-<strong>As a Returning User, I would like to be able to sign up to the group.</strong>
+**As a Returning User, I would like to be able to sign up to the group.**
  - The user is presented with a simple Sign-Up form on the Sign-Up page.
 
-<strong>As a Returning User, I would like to be able to access the group across different social media platforms.</strong>
+**As a Returning User, I would like to be able to access the group across different social media platforms.**
  - The user is presented with the option of four different social media platform links located in the footer.
 
 
 
 Frequent User-
 
-<strong>As a Frequent User, I would like to be able to keep up to date with events the group are running through the social media platforms linked. </strong>
+**As a Frequent User, I would like to be able to keep up to date with events the group are running through the social media platforms linked.**
  - The user has the option of visiting the social media platforms via the links in the footer.
 
-<strong>As a Frequent User, I would like to be able to check if locations, dates and times are changed or updated.</strong>
+**As a Frequent User, I would like to be able to check if locations, dates and times are changed or updated.**
  - The user has the option of visiting the social media platforms via the links, different contact methods and via receiving automatic emails with updates.
 
 
@@ -53,7 +53,7 @@ Testing has been completed in a variety of ways:
 
   Friends and family have tested my website on different devices and browsers and the feedback has been that the website is responsive, accessible, easy to navigate, clear and concise. All internal and external links and buttons also work.
 
- ### Online responsive tools
+ ### Online Responsive Tools
 
  I have used online responsive tools to show what my website looks like on a range of different devices. Below is a screenshot which shows my website as it would be seen on the following devices:
   - iPhone XS, X 375x812
