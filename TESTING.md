@@ -223,4 +223,6 @@ iPad Pro 10.5inch:
 
 - I made the mistake early on in my project of using lowercase letters when using git commands. This was something I very quickly learnt not to do and since then have ensured that all other git commands are written beginning with a capital letter.
 
+- I would sometimes get a little muddled on writing the correct command when using git add. All files have gone into the right folders despite this.
+
 

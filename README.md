@@ -262,4 +262,4 @@ The footer features are:
 
 # Testing
 
-Please refer to [testing.md](/TESTING.md) for all testing documentation.
+Please refer to [TESTING.md](/TESTING.md) for all testing documentation.
