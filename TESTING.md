@@ -49,6 +49,30 @@ Testing has been completed in a variety of ways:
   - Microsoft Edge
   - Brave
 
+  - Google Chrome
+
+  ![Chrome-Home](/documents/browsers/chromehome.png)
+  ![Chrome-Benefits](/documents/browsers/chromebenefits.png)
+  ![Chrome-Gallery](/documents/browsers/chromegallery.png)
+  ![Chrome-SignUp](/documents/browsers/chromesignup.png)
+  ![Chome-Extra](/documents/browsers/chromeextra.png)
+
+  - Microsoft Edge
+
+  ![Edge-Home](/documents/browsers/edgehome.png)
+  ![Edge-Benefits](/documents/browsers/edgebenefits.png)
+  ![Edge-Gallery](/documents/browsers/edgegallery.png)
+  ![Edge-SignUp](/documents/browsers/edgesignup.png)
+  ![Edge-Extra](/documents/browsers/edgeextra.png)
+
+  - Brave
+
+  ![Brave-Home](/documents/browsers/bravehome.png)
+  ![Brave-Benefits](/documents/browsers/bravebenefits.png)
+  ![Brave-Gallery](/documents/browsers/bravegallery.png)
+  ![Brave-SignUp](/documents/browsers/bravesignup.png)
+  ![Brave-Extra](/documents/browsers/braveextra.png)
+
   ### User Feedback
 
   Friends and family have tested my website on different devices and browsers and the feedback has been that the website is responsive, accessible, easy to navigate, clear and concise. All internal and external links and buttons also work.
@@ -203,13 +227,13 @@ This showed me that my website is accessible and fairly easy for visually-impair
 I encountered three bugs regarding responsiveness. These are detailed in the screenshots below:
 
 - iPhone XR
-I became aware of this issue when testing the website on my iPhone XR. The site worked well, except for this issue. It has become apparent through user feedback that this is a small issue on most mobile devices. I tried changing/adding/removing various bits of code to try and fix this to get it to work but found that I couldn't get it to work. 
+ - I became aware of this issue when testing the website on my iPhone XR. The site worked well, except for this issue. It has become apparent through user feedback that this is a small issue on most mobile devices. I tried changing/adding/removing various bits of code to try and fix this to get it to work but found that I couldn't get it to work. This only applies to the **Benefits** page of my website.
 
 ![Bug-Mobile](/testing/errors/bugs/iphone-xr-benefitspage.png)
 
 
 - iPad
-The navigation bar does not display in a visually-appealing way on some tablet devices. I also tried to fix this, but couldn't get it to work.
+ - The navigation bar does not display in a visually-appealing way on some tablet devices. I also tried to fix this, but couldn't get it to work.
 
 iPad:
 
