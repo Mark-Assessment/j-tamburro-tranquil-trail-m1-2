@@ -222,15 +222,15 @@ The footer features are:
 
 ## Technologies Used
 
-- Bootstrap 5.3:
+- <a href="https://getbootstrap.com">Bootstrap 5.3</a>:
    - Bootstrap helped with layout and styling and ensuring that the site is responsive.
 
 
-- Google Fonts:
+- <a href="https://fonts.google.com/">Google Fonts</a>:
    - Google Fonts was used for the Josefin Slab font that is used throughout the site, which was copied into the HTML and CSS code.
 
 
-- Font Awesome:
+- <a href="https://fontawesome.com">Font Awesome</a>:
    - Font Awesome was used for the lotus flower icons on the Benefits page, the tree icons on the Extra page and the social media icons which appear on every page of the website.
 
 
@@ -239,20 +239,19 @@ The footer features are:
 
 
 - Logomakr:
-   - Logomakr was used to design and create the logo which appears on every page of the website.
+   - <a href="https://logomakr.com">Logomakr</a> was used to design and create the logo which appears on every page of the website.
 
 
 - Git:
    - Git was used for the version control of the website.
 
 
-- Github:
+- <a href="https://github.com">Github</a>:
    - Github was used to host the code of the website.
 
 
-- Pexels:
+- <a href="www.pexels.com">Pexels</a>:
    - Pexels was used for the background image, the gallery images and the testimonial images.
-
 
 
 ## Languages Used
@@ -270,7 +269,7 @@ Please refer to [TESTING.md](/TESTING.md) for all testing documentation.
 
 - This project was deployed to GitHub Pages. The steps to deploy to GitHub Pages are as follows:
 
-1. Log into GitHub Pages and find <a href="www.github.com"> GitHub Repository.</a>
+1. Log into GitHub Pages and find the GitHub Repository.
 2. Locate the settings tab at the top of the page and then scroll down the page until you reach the section called Pages, on the left-hand side.
 3. Find "Source" and then click on the dropdown menu and select "Main" and save it.
 4. The page will automatically refresh.
@@ -285,20 +284,20 @@ This is done by the following steps -
 1. Log into GitHub.
 2. Locate the GitHub Repository.
 3. Near the "Settings" button, there is a "Fork" button.
-4. Click "Fork" and you will have a copy of the original in your account.
+4. Click "Fork" and you will have a copy of the original in your GitHub account.
 
 ## Local Deployment
 
 You can also make a local copy of this project by cloning it.
 
 You can do this by typing the following into your terminal: 
-git clone https://github.com/jtam90/Tranquil-Trail-Wellness.git 
+- git clone https://github.com/jtam90/Tranquil-Trail-Wellness.git 
 
 # Credits
 
 ## Content
 
-- For my navbar hover effect, I gained inspiration through a tutorial done by Kevin Powell on his YouTube channel. The link to that specific tutorial is <a href="https://www.youtube.com/watch?v=FEmysQARWFU&list=PL4-IK0AVhVjPxtv9SVKQZm_huHpDEgLz0">here</a>. I have also given credit to this tutorial through comments directly in my CSS above my navbar code.
+- For my navbar hover effect, I gained inspiration through a tutorial by Kevin Powell on his YouTube channel. The link to that specific tutorial is <a href="https://www.youtube.com/watch?v=FEmysQARWFU&list=PL4-IK0AVhVjPxtv9SVKQZm_huHpDEgLz0">here</a>. I have also given credit to this tutorial through comments directly in my CSS above my navbar code.
 
 ## Media
 
@@ -314,22 +313,22 @@ All images across the site were taken from <a href="https://www.pexels.com">Pexe
 The tools used that haven't yet been mentioned are:
 
 - GoFullPage - Full Page Screen Capture
-This was used for full-page screenshots of my site.
+  -This was used for full-page screenshots of my site.
 
 - Responsive Viewer
-This was used to capture different images of how my site displays across different devices.
+  -This was used to capture different images of how my site displays across different devices.
 
 - <a href="https://ui.dev/amiresponsive">Am I Responsive?</a>
-This was used for my starting image at the beginning of my README.md, displaying my site across different devices in one image.
+  -This was used for my starting image at the beginning of my README.md, displaying my site across different devices in one image.
 
 - ChatGPT
-This was used for help with understanding various code on a deeper level so that I could utilise it more efficiently, as well as helping me come up with an interesting name for my website.
+  -This was used for help with understanding various code on a deeper level so that I could utilise it more efficiently, as well as helping me come up with an interesting name for my website.
 
 ### Acknowledgements
 
 - <a href="https://github.com/IuliiaKonovalova">Julia Konovalova</a> - my mentor who has offered amazing help, support and advice and also introduced me to the wonder that is Kevin Powell.
 - <a href="https://github.com/TravelTimN">Tim Nelson</a> - My original mentor who gave me insightful advice and support in the very early days of beginning my diploma, that I have carried with me.
 - <a href="https://github.com/RachelFurlong-dev">Rachel Furlong</a> my tutor and cohort leader who has been a wonderful fountain of knowledge and information, offering reassurance and encouragement when needed.
-- The Code Institute tutors and Slack community for help and advice.
 - My friends and family who have not only tested my site and given me honest feedback, but also kept me sane in the process.
+- The Code Institute tutors and Slack community for help and advice.
 - <a href="https://www.youtube.com/@KevinPowell">Kevin Powell</a> for helping me understand CSS at a deeper level and learn new code and methods at the same time.
