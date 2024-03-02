@@ -238,8 +238,8 @@ The footer features are:
    - Balsamiq was used to create my wireframes for desktop, tablet and mobile devices.
 
 
-- Logomakr:
-   - <a href="https://logomakr.com">Logomakr</a> was used to design and create the logo which appears on every page of the website.
+- <a href="https://logomakr.com">Logomakr</a>:
+   - Logomakr was used to design and create the logo which appears on every page of the website.
 
 
 - Git:
