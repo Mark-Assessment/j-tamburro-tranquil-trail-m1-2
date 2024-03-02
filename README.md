@@ -140,11 +140,11 @@ The Navigation is responsive across all devices.
 
 -Desktop
 
-![Navbar-Desktop](/documents/navbar.png)
+![Navbar-Desktop](/documents/screenshots/navbar.png)
 
 -Mobile 
 
-![Navbar-Mobile](/documents/navbar-mobile.png)
+![Navbar-Mobile](/documents/screenshots/navbar-mobile.png)
 
 -Tablet
 
