@@ -8,7 +8,7 @@ First Time User-
 **As a First Time User, I would like to find out the purpose of the site and what it is that is being offered.**
  - Upon entering the site for the first time, the user is presented with a clearly laid out Home Page, which sets out in full description what the purpose of the site is, and what is being offered with locations, dates and times.
 
- ![Desktop-Homepage](/documents/desktop-homepage.png)
+ ![Desktop-Homepage](/documents/home-page.png)
 
 
 **As a First Time User, I would like for the site to be easily accessible with simple navigation.**
